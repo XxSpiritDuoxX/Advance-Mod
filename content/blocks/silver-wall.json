@@ -1,0 +1,10 @@
+{
+	"type": "Wall",
+	"health": 600,
+	"size": 2,
+	"requirements": [
+		{ "item": "silver", "amount": 40 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}
