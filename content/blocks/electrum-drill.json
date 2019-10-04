@@ -1,0 +1,23 @@
+{
+	"name": "Electrum Drill",
+	"description": "A very strange drill.",
+	"type": "Drill",
+	"size": 3,
+	"tier": 2,
+	"drillTime": 250,
+	"consumes": {
+		"power": 3.0,
+		"liquid": {
+			"liquid": "molten-silver", 
+			"amount": 0.1,
+			"booster": true
+		}
+	},
+	"requirements": [
+		{ "item": "electrum", "amount": 80 },
+		{ "item": "silicon", "amount": 40 },
+		{ "item": "graphite", "amount": 20 }
+	],
+	"category": "production",
+	"research": "laser-drill"
+}

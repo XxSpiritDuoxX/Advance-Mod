@@ -1,4 +1,6 @@
 {
+	"name": "Silver Crags",
+	"description": "Salt and silver lie here.",
 	"loadout": "basicFoundation",
     "startingItems": [
     	{"item": "copper", "amount": 200},
