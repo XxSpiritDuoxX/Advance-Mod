@@ -8,9 +8,20 @@
     ],
     "conditionWave": 10,
     "launchPeriod": 10,
-    "zoneRequirements": [
-    	{"zone": "groundZero", "wave": 40}
+    "requirements": [
+    	{
+    		"type": "ZoneWave",
+    		"zone": "groundZero", 
+    		"wave": 40
+    	},
+    	{
+    		"type": "Unlock",
+    		"block": "kiln"
+    	}
+    	{
+    		"type": "Unlock",
+    		"block": "solar-panel"
+    	}
     ],
-    "blockRequirements": ["kiln", "solar-panel"],
     "resources": ["copper", "silver", "lead", "coal", "sand"]
 }
