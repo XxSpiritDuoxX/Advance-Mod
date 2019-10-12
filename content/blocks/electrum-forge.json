@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
 	"name": "Electrum Forge",
-	"description": "Combines molten silver and gold dust to produce electrum.",
+	"description": "Combines molten silver and gold powder to produce electrum.",
 	"liquidCapacity": 50,
 	"outputItem": {"item": "electrum", "amount": 1},
 	"size": 2,
@@ -14,12 +14,12 @@
 		"power": 0.7,
 		"items": {
 			"items": [
-				{ "item": "gold-dust", "amount": 2 }
+				{ "item": "gold-powder", "amount": 2 }
 			]
 		},
 		"liquid": {
 			"liquid": "molten-silver",
-			"amount": 50.0
+			"amount": 1.0
 		}
 	},
 	"requirements": [
