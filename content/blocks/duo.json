@@ -1,0 +1,20 @@
+{
+	"ammo": {
+		"copper": "standardCopper",
+		"graphite": "standardDense",
+		"pyratite": "standardIncendiary",
+		"silicon": "standardHoming",
+		"electurm": {
+			"speed": 6.0,
+			"damage": 10,
+			"reloadMultiplier": 0.5,
+			"bulletWidth": 7,
+			"bulletHeight": 9,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5,
+			"backColor": "ac7349",
+			"frontColor": "dcd16b"
+		}
+	}
+}
