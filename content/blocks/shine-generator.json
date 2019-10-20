@@ -21,5 +21,5 @@
 		{ "item": "electrum", "amount": 50 }
 	],
 	"category": "power",
-	"research": "turbine-generator"
+	"research": "silver-crucible"
 }
