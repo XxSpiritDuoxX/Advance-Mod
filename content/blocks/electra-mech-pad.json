@@ -1,0 +1,18 @@
+{
+	"name": "Electra Mech Pad",
+	"description": "Transform into the Electra mech.",
+	"type": "MechPad",
+	"mech": "electra-mech",
+	"size": 2,
+	"consumes": {
+		"power": 0.7
+	},
+	"category": "upgrade",
+	"research": "wraith-factory",
+	"requirements": [
+		{ "item": "silver", "amount": 70 },
+		{ "item": "electrum", "amount": 40 },
+		{ "item": "silicon", "amount": 40 },
+		{ "item": "graphite", "amount": 50 },
+	]
+}
