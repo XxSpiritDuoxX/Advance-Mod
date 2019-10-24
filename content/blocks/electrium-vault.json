@@ -1,0 +1,15 @@
+{
+	"name": "Electrum Vault",
+	"description": "Example Storage",
+	"type": "Vault",
+	"itemCapacity": 2500,
+	"hasItems": true,
+	"health": 2000,
+	"size": 3,
+	"requirements": [
+		{ "item": "Electrum", "amount": 20 },
+		{ "item": "Titanium", "amount": 60 },
+		{ "item": "Thorium", "amount": 40 }
+	],
+	"category": "effect"
+}
