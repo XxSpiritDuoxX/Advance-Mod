@@ -1,6 +1,6 @@
 {
 	"name": "Electrum Vault",
-	"description": "Example Storage",
+	"description": "Shocking way of storing items.",
 	"type": "Vault",
 	"itemCapacity": 2500,
 	"hasItems": true,
@@ -11,5 +11,6 @@
 		{ "item": "titanium", "amount": 60 },
 		{ "item": "thorium", "amount": 40 }
 	],
-	"category": "effect"
+	"category": "effect",
+	"research": "vault"
 }
