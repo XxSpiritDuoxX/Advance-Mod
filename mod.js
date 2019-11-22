@@ -1,4 +1,4 @@
-name: Example Mod
-author: Anuke
-description: A simple mod. Demonstrates how to make[accent] new ores[] and[orange] machines.[]
-version: 1
+name: "Example Mod"
+author: "Anuke"
+description: "A simple mod. Demonstrates how to make[accent] new ores[] and[orange] machines.[]"
+version: "2.0"
