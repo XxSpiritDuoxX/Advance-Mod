@@ -1,9 +1,3 @@
-/** 
-this file is special, in the sense that it demonstrates how the hjson format can be used to add comments and remove redundant formatting
-note how there are no top-level curly braces here, and no quotes or commas.
-the .js extension does not affect how this file is parsed, it is just here to improve standard syntax highlighting.
-**/
-
 //use a custom ogg sound for shooting
 shootSound: swings
 
