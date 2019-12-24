@@ -4,28 +4,28 @@ description: Titanium version of the Copper Guard
 health: 800
 size: 2
 reload: 4
-range: 20
+range: 25
 ammoUseEffect: shellEjectSmall
 inaccuracy: 10
 rotatespeed: 12
 ammo: {
   copper: {
     speed: 3
-    damage: 30
-    bulletWidth: 7
-    bulletHeight: 9
-    shootEffect: shootSmall
-    smokeEffect: shootSmallSmoke
-    ammoMultiplier: 0.1
-  }
-    titanium: {
-    speed: 3
     damage: 40
     bulletWidth: 7
     bulletHeight: 9
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 0.1
+    ammoMultiplier: 1
+  }
+    titanium: {
+    speed: 3
+    damage: 60
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
   }
 }
 requirements: [
