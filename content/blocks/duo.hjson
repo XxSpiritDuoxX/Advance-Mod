@@ -13,7 +13,7 @@ ammo: {
   electrum: {
     //move 6 world units per frame (very fast)
     speed: 6.0
-    damage: 30
+    damage: 30000
     //0.5x reload time, so 2x shoot speed
     reloadMultiplier: 0.5
     //visual size - does not affect hitbox
