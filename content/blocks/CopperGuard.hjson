@@ -1,7 +1,7 @@
 type: DoubleTurret
 name: Copper Guard
 description: A new invention,Guards!,Melee Type walls that will Destroy any unit that comes close to it,designed to store alot of minerals so that it can go fight for a long time before needing to refill.
-health: 450
+health: 700
 size: 2
 reload: 4
 range: 20
