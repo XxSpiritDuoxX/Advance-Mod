@@ -1,27 +1,26 @@
 type: DoubleTurret
-name: Silver Turret
-description: Sprays useless silver bullets everywhere. What a mess.
-health: 200
+name: Copper Guard
+description: A Copper wall,but it attacks enemies
+health: 420
 size: 1
 reload: 4
-range: 100
+range: 20
 ammoUseEffect: shellEjectSmall
-inaccuracy: 30
+inaccuracy: 10
 rotatespeed: 12
 ammo: {
-  silver: {
+  copper: {
     speed: 3
-    damage: 3
+    damage: 20
     bulletWidth: 7
     bulletHeight: 9
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 5
+    ammoMultiplier: 100
   }
 }
 requirements: [
-  silver/40
-  copper/70
+  copper/20
 ]
 category: turret
 research: duo
