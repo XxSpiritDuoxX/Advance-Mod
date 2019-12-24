@@ -1,0 +1,36 @@
+type: DoubleTurret
+name: Copper Guard
+description: Titanium version of the Copper Guard
+health: 1600
+size: 2
+reload: 4
+range: 20
+ammoUseEffect: shellEjectSmall
+inaccuracy: 10
+rotatespeed: 12
+ammo: {
+  titanium: {
+    speed: 3
+    damage: 30
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 0.1
+  }
+    plastanium: {
+    speed: 3
+    damage: 45
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 0.1
+  }
+}
+requirements: [
+  plastanium/40
+  metaglass/10
+]
+category: turret
+research: duo
