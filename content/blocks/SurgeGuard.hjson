@@ -1,0 +1,62 @@
+type: DoubleTurret
+name: Surge Guard
+description: This is the one you want to be looking for if you want a good offence and defence even if you are low on space
+health: 1800
+size: 2
+reload: 4
+range: 30
+ammoUseEffect: shellEjectSmall
+inaccuracy: 10
+rotatespeed: 12
+ammo: {
+  copper: {
+    speed: 3
+    damage: 25
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+  titanium: {
+    speed: 3
+    damage: 40
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+    plastanium: {
+    speed: 4
+    damage: 65
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+  thorium: {
+    speed: 3
+    damage: 90
+    bulletWidth: 8
+    bulletHeight: 10
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+    surge-alloy: {
+    speed: 4
+    damage: 130
+    bulletWidth: 8
+    bulletHeight: 10
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+}
+requirements: [
+  surge-alloy/65
+]
+category: turret
+research: duo
