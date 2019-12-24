@@ -2,7 +2,7 @@ type: DoubleTurret
 name: Copper Guard
 description: A Copper wall,but it attacks enemies
 health: 420
-size: 1
+size: 2
 reload: 4
 range: 20
 ammoUseEffect: shellEjectSmall
@@ -16,7 +16,7 @@ ammo: {
     bulletHeight: 9
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 100
+    ammoMultiplier: 0.05
   }
 }
 requirements: [
