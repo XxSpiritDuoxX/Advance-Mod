@@ -1,7 +1,7 @@
 type: DoubleTurret
 name: Copper Guard
 description: Titanium version of the Copper Guard
-health: 600
+health: 800
 size: 2
 reload: 4
 range: 20
