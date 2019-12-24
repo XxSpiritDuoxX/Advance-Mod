@@ -1,14 +1,23 @@
 type: DoubleTurret
-name: Copper Guard
-description: Titanium version of the Copper Guard
+name: Plastanium Guard
+description: Good offence and defense
 health: 1600
 size: 2
 reload: 4
-range: 20
+range: 25
 ammoUseEffect: shellEjectSmall
 inaccuracy: 10
 rotatespeed: 12
 ammo: {
+  copper: {
+    speed: 3
+    damage: 25
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
   titanium: {
     speed: 3
     damage: 40
@@ -16,7 +25,7 @@ ammo: {
     bulletHeight: 9
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 0.1
+    ammoMultiplier: 1
   }
     plastanium: {
     speed: 3
@@ -25,7 +34,7 @@ ammo: {
     bulletHeight: 9
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 0.1
+    ammoMultiplier: 1
   }
 }
 requirements: [
