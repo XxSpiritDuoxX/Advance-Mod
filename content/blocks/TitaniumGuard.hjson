@@ -18,6 +18,15 @@ ammo: {
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 0.1
   }
+    titanium: {
+    speed: 3
+    damage: 40
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 0.1
+  }
 }
 requirements: [
   titanium/40
