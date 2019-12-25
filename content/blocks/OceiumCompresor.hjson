@@ -1,12 +1,13 @@
 type: GenericSmelter
 name: Oceium Compressor
 description: Compresses Water and Titanium into Oceium,a very strong metal,please dont question how
+health: 1000
 liquidCapacity: 300
 size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 120
+craftTime: 200
 updateEffect: smeltsmoke
 consumes: {
   power: 0.5
@@ -17,7 +18,7 @@ consumes: {
   }
   liquid: {
     liquid: water
-    amount: 2.5
+    amount: 0.5
   }
 }
 requirements: [
