@@ -1,26 +1,26 @@
 type: DoubleTurret
-name: Copper Guard
-description: A Copper wall,but it attacks enemies
-health: 420
+name: Plastic Turret
+description: This is more like a toy,however,because on how light plastic is,the bullets can shoot from far away
+health: 150
 size: 1
-reload: 4
-range: 20
+reload: 8
+range: 60
 ammoUseEffect: shellEjectSmall
 inaccuracy: 10
 rotatespeed: 12
 ammo: {
-  copper: {
-    speed: 3
-    damage: 20
+  plastic: {
+    speed: 8
+    damage: 3
     bulletWidth: 7
     bulletHeight: 9
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 100
+    ammoMultiplier: 2
   }
 }
 requirements: [
-  copper/20
+  plastic/20
 ]
 category: turret
 research: duo
