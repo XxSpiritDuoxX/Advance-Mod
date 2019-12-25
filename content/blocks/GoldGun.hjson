@@ -1,0 +1,26 @@
+type: DoubleTurret
+name: Golden Plastic Turret
+description: this is very powerful,you can only buy this
+health: 1500
+size: 1
+reload: 10
+range: 180
+ammoUseEffect: shellEjectSmall
+inaccuracy: 10
+rotatespeed: 12
+ammo: {
+  plastic: {
+    speed: 8
+    damage: 30
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 2
+  }
+}
+requirements: [
+  coin/250
+]
+category: turret
+research: duo
