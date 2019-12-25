@@ -1,1 +1,12 @@
 name: Plastic Container
+description: Tiny Container,does not hold that much
+type: Vault
+itemCapacity: 50
+hasItems: true
+health: 100
+size: 1
+requirements: [
+  plastic/25
+]
+category: effect
+research: container
