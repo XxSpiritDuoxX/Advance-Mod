@@ -4,7 +4,7 @@ description: This is more like a toy,however,because on how light plastic is,the
 health: 150
 size: 1
 reload: 8
-range: 60
+range: 150
 ammoUseEffect: shellEjectSmall
 inaccuracy: 10
 rotatespeed: 12
