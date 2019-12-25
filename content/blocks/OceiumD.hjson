@@ -6,11 +6,6 @@ tier: 2
 drillTime: 250
 consumes: {
   power: 3
-  liquid: {
-    liquid: cyrofluid
-    amount: 0.1
-    booster: true
-  }
 }
 requirements: [
   oceium/25
