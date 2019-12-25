@@ -3,7 +3,7 @@ description: A small yet powerful drill.
 type: Drill
 size: 2
 tier: 2
-drillTime: 250
+drillTime: 400
 consumes: {
   power: 3
 }
