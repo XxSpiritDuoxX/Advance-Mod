@@ -1,0 +1,20 @@
+name: Ocieum Drill
+description: A small yet powerful drill.
+type: Drill
+size: 2
+tier: 2
+drillTime: 250
+consumes: {
+  power: 3
+  liquid: {
+    liquid: liquid-oceium
+    amount: 0.1
+    booster: true
+  }
+}
+requirements: [
+  oceium/25
+  silicon/10
+]
+category: production
+research: laser-drill
