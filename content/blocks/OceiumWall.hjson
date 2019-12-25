@@ -1,0 +1,10 @@
+name: Oceium Wall
+description: A Wall made out of Oceium,though a bit expensive,its worth it
+type: Wall
+health: 1500
+size: 1
+requirements: [
+  oceium/10
+]
+category: defense
+research: copper-wall
