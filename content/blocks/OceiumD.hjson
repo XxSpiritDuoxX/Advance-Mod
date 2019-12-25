@@ -7,7 +7,7 @@ drillTime: 250
 consumes: {
   power: 3
   liquid: {
-    liquid: liquid-oceium
+    liquid: cyrofluid
     amount: 0.1
     booster: true
   }
