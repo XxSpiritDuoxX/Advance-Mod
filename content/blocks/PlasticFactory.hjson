@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: Plastic Factory
+description: Turns Coal into Plastic,a weak but light material
+health: 400
+liquidCapacity: 30
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.1
+  items: {
+    items: [
+      coal/1
+    ]
+  }
+}
+requirements: [
+  copper/30
+  lead/40
+  silicon/10
+]
+category: crafting
+research: silver-crucible
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: plastic/4
