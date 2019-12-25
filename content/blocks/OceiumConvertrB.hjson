@@ -1,0 +1,28 @@
+type: GenericCrafter
+name: Oceium Converter A
+description: Turns Oceium into Liquid
+health: 500
+liquidCapacity: 10
+size: 1
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 30
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.05
+  liquid: {
+    liquid: [
+      liquid-oceium/1
+    ]
+  }
+}
+requirements: [
+  oceium/10
+  thorium/20
+]
+category: crafting
+research: silver-crucible
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: oceium/1
