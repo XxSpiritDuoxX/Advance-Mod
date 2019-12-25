@@ -5,7 +5,7 @@ size: 2
 tier: 4
 drillTime: 100
 consumes: {
-  power: 3
+  power: 1
 }
 requirements: [
   oceium/25
