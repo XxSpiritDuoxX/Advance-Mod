@@ -1,0 +1,12 @@
+name: Mini Drill
+description: A tiny Pneumatic Drill,
+type: Drill
+size: 2
+tier: 3
+drillTime: 400
+requirements: [
+  copper/4
+  graphite/2
+]
+category: production
+research: mechanical-drill
