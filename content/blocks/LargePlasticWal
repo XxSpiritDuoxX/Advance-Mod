@@ -1,0 +1,10 @@
+name: Large Plastic Wall
+description: Cheap wall,low defense
+type: Wall
+health: 900
+size: 1
+requirements: [
+  plastic/16
+]
+category: defense
+research: copper-wall
