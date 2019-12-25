@@ -1,7 +1,7 @@
 name: Plastic Container
 description: A Container that you should get,its not expensive
 type: Vault
-itemCapacity: 150
+itemCapacity: 200
 hasItems: true
 health: 400
 size: 2
