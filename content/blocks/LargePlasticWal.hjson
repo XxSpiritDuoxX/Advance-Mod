@@ -2,7 +2,7 @@ name: Large Plastic Wall
 description: Cheap wall,low defense
 type: Wall
 health: 900
-size: 1
+size: 2
 requirements: [
   plastic/16
 ]
