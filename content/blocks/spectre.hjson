@@ -13,7 +13,7 @@ ammo: {
   oceium: {
     //move 6 world units per frame (very fast)
     speed: 3
-    damage: 80
+    damage: 35
     //0.5x reload time, so 2x shoot speed
     reloadMultiplier: 1
     //visual size - does not affect hitbox
