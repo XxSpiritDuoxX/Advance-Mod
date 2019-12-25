@@ -1,0 +1,12 @@
+name: Plastic Container
+description: A Container that you should get,its not expensive
+type: Vault
+itemCapacity: 150
+hasItems: true
+health: 400
+size: 2
+requirements: [
+  plastic/100
+]
+category: effect
+research: container
