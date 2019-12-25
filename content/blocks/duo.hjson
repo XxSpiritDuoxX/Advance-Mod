@@ -10,10 +10,10 @@ ammo: {
   silicon: standardHoming
   
   //define a custom type with different properties
-  electrum: {
+  plastic: {
     //move 6 world units per frame (very fast)
-    speed: 6.0
-    damage: 3
+    speed: 8
+    damage: 2
     //0.5x reload time, so 2x shoot speed
     reloadMultiplier: 0.5
     //visual size - does not affect hitbox
@@ -22,7 +22,7 @@ ammo: {
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     //2 bullets per electrum item
-    ammoMultiplier: 2
+    ammoMultiplier: 3
     //visual bullet front and back
     backColor: ac7349
     frontColor: dcd16b
