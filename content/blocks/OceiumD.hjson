@@ -2,8 +2,8 @@ name: Ocieum Drill
 description: A small yet powerful drill.
 type: Drill
 size: 2
-tier: 2
-drillTime: 400
+tier: 4
+drillTime: 100
 consumes: {
   power: 3
 }
