@@ -1,0 +1,10 @@
+name: Plastic Wall
+description: Cheap wall,very low defense
+type: Wall
+health: 200
+size: 1
+requirements: [
+  plastic/4
+]
+category: defense
+research: copper-wall
