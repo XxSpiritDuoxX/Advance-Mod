@@ -1,4 +1,4 @@
-type: GenericSmelter
+type: GenericCrafter
 name: Oceium Compressor
 description: Compresses Water and Titanium into Oceium,a very strong metal,please dont question how
 health: 1000
