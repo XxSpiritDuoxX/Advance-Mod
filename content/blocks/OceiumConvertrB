@@ -1,6 +1,6 @@
 type: GenericCrafter
-name: Oceium Converter A
-description: Turns Oceium into Liquid
+name: Oceium Converter B
+description: Turns Liquid Oceium into Oceium
 health: 500
 liquidCapacity: 10
 size: 1
