@@ -1,15 +1,15 @@
 type: groundUnit
 name: Slicer
 description: Basic melee unit,often used for destroying walls or tanking hits
-speed: 0.2
+speed: 0.08
 flying: false
 health: 1000
 engineOffset: 5.5
-range: 35
+range: 10
 weapon: {
   name: thorium-blade
   length: 1.5
-  reload: 1
+  reload: 30
   damage: 300
   bulletWidth:10
   bulletHeight:10
