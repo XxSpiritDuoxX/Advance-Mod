@@ -21,7 +21,7 @@ requirements: [
   copper/20
   lead/20
 ]
-category: effect
+category: crafting
 research: silver-crucible
 idleSound: respawning
 idleSoundVolume: 0.5
