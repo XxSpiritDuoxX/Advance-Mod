@@ -1,0 +1,27 @@
+type: GenericCrafter
+name: Bank
+description: Gives you 1 extra coin every 3 coins put inside
+health: 500
+liquidCapacity: 30
+size: 1
+hasPower: false
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 0
+  items: {
+    items: [
+      coin/3
+    ]
+  }
+}
+requirements: [
+  coin/200
+]
+category: crafting
+research: silver-crucible
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: coin/4
