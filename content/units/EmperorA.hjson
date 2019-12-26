@@ -7,10 +7,10 @@ health: 5000000
 engineOffset: 5.5
 range: 30
 weapon: {
-  name: thorium-blade
+  name: empiaric-blade
   length: 1.5
   reload: 30
-  damage: 4000
+  damage: 8500
   bulletWidth:10
   bulletHeight:10
   backColor: 000000
