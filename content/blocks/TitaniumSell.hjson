@@ -1,0 +1,27 @@
+type: GenericCrafter
+name: Plastic Seller
+description: Sells Titanium for 3 Coins
+health: 300
+liquidCapacity: 30
+size: 1
+hasPower: false
+hasLiquids: true
+hasItems: true
+craftTime: 20
+updateEffect: smeltsmoke
+consumes: {
+  power: 0
+  items: {
+    items: [
+      titanium/1
+    ]
+  }
+}
+requirements: [
+  coin/100
+]
+category: crafting
+research: silver-crucible
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: coin/3
