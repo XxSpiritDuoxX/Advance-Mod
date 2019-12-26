@@ -1,0 +1,21 @@
+type: Revenant
+name: Scythe
+description: A minature version of the Reaper,though small,its speed is quite fast for a heavily armored ship
+speed: 0.075
+flying: true
+health: 2500
+engineOffset: 5.5
+range: 120
+weapon: {
+  name: mini-reaper-gun
+  length: 1.5
+  reload: 5
+  damage: 50
+  bulletWidth:10
+  bulletHeight:15
+  backColor: 000000
+  frontColor: ffffff
+  bulletShrink: 0
+  alternate: true
+  bullet: standardThorium
+}
