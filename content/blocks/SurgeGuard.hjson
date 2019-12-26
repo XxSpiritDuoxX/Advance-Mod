@@ -1,10 +1,10 @@
 type: DoubleTurret
 name: Surge Guard
-description: This is the one you want to be looking for if you want a good offence and defence even if you are low on space
+description: The Best Guard
 health: 1800
 size: 2
 reload: 4
-range: 30
+range: 40
 ammoUseEffect: shellEjectSmall
 inaccuracy: 10
 rotatespeed: 12
@@ -59,4 +59,4 @@ requirements: [
   surge-alloy/65
 ]
 category: turret
-research: duo
+research: ThoriumGuard
