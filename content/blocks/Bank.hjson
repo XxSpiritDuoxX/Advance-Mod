@@ -1,19 +1,19 @@
 type: GenericCrafter
 name: Bank
-description: Gives you 1 extra coin every 3 coins put inside
+description: Gives you 2 coins every second
 health: 500
 liquidCapacity: 30
 size: 1
-hasPower: false
+hasPower: true
 hasLiquids: true
 hasItems: true
 craftTime: 60
 updateEffect: smeltsmoke
 consumes: {
-  power: 0
+  power: 0.1
   items: {
     items: [
-      coin/3
+      coin/0
     ]
   }
 }
