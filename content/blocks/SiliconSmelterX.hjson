@@ -1,0 +1,28 @@
+type: GenericCrafter
+name: Silicon Smelter Mk2
+description: Smelts Silicon really fast
+health: 400
+liquidCapacity: 30
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.1
+  items: {
+    items: [
+      coal/1
+      sand/1
+    ]
+  }
+}
+requirements: [
+  coin/300
+]
+category: crafting
+research: silver-crucible
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: silicon/2
