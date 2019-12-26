@@ -20,7 +20,7 @@ ammo: {
   }
 }
 requirements: [
-  coin/250
+  coin/400
 ]
 category: turret
 research: duo
