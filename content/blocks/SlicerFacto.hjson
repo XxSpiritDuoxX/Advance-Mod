@@ -1,0 +1,20 @@
+name: Chrome Wraith Factory
+description: Makes basic melee units often used for raiding bases,has high HP and DMG but have low range
+type: UnitFactory
+unitType: Slicer
+size: 2
+produceTime: 360
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      silicon/15
+    ]
+  }
+}
+category: units
+research: dagger-factory
+requirements: [
+  silicon/80
+  lead/100
+]
