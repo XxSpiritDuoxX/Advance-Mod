@@ -1,0 +1,28 @@
+type: GenericCrafter
+name: Plastic Seller
+description: Sells Plastic for 1 coin
+health: 300
+liquidCapacity: 30
+size: 1
+hasPower: false
+hasLiquids: true
+hasItems: true
+craftTime: 20
+updateEffect: smeltsmoke
+consumes: {
+  power: 0
+  items: {
+    items: [
+      plastic/1
+    ]
+  }
+}
+requirements: [
+  copper/20
+  lead/20
+]
+category: effect
+research: silver-crucible
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: coin/1
