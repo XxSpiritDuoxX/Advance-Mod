@@ -1,0 +1,21 @@
+type: Reaper
+name: Commander
+description: A powerful ship capable of destroying even the strongest of defenses,this is not even the strongest ship.
+speed: 0.1
+flying: true
+health: 100000
+engineOffset: 5.5
+range: 160
+weapon: {
+  name: ocerin-cannons
+  length: 1.5
+  reload: 6
+  damage: 150
+  bulletWidth:10
+  bulletHeight:12
+  backColor: 000000
+  frontColor: ffffff
+  bulletShrink: 0
+  alternate: true
+  bullet: standardThorium
+}
