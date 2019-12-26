@@ -3,7 +3,7 @@ description: Makes basic melee units often used for raiding bases,has high HP an
 type: UnitFactory
 unitType: Slicer
 size: 2
-produceTime: 360
+produceTime: 840
 consumes: {
   power: 0.5
   items: {
