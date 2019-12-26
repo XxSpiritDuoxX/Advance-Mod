@@ -1,7 +1,8 @@
 name: Mini Drill
 description: A tiny Pneumatic Drill,
 type: Drill
-size: 2
+health: 80
+size: 1
 tier: 3
 drillTime: 400
 requirements: [
