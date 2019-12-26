@@ -11,8 +11,8 @@ weapon: {
   length: 9
   reload: 6
   damage: 250
-  bulletWidth:20
-  bulletHeight:24
+  bulletWidth:25
+  bulletHeight:30
   backColor: 000000
   frontColor: ffffff
   bulletShrink: 0
