@@ -13,7 +13,7 @@ consumes: {
   power: 0.25
   items: {
     items: [
-      dagger/1
+      daggeritem/1
     ]
   }
 }
