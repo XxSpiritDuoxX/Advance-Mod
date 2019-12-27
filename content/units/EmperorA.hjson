@@ -5,17 +5,18 @@ speed: 0.01
 flying: false
 health: 5000000
 engineOffset: 5.5
-range: 30
+range: 5
 weapon: {
-  name: empiaric-blade
-  length: 1.5
-  reload: 30
-  damage: 8500
-  bulletWidth:10
-  bulletHeight:10
-  backColor: 000000
-  frontColor: ffffff
-  bulletShrink: 0
-  alternate: true
-  bullet: standardThorium
+  name: empiaric-blade: {
+    length: 1.5
+    reload: 30
+    damage: 8500
+    bulletWidth:10
+    bulletHeight:10
+    backColor: 000000
+    frontColor: ffffff
+    bulletShrink: 0
+    alternate: true
+    bullet: standardThorium
+  }
 }
