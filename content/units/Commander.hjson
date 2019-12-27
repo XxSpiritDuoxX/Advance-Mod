@@ -10,12 +10,14 @@ weapon: {
   name: ocerin-cannons
   length: 9
   reload: 6
-  damage: 250
+  bulletShrink: 0
+  alternate: true
+  bullet: Commanderbullets: {
+  lifetime: 240
+  damage: 200
   bulletWidth:25
   bulletHeight:30
   backColor: 000000
   frontColor: ffffff
-  bulletShrink: 0
-  alternate: true
-  bullet: standardThorium
+  }
 }
