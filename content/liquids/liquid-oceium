@@ -1,6 +1,6 @@
 name: Liquid Oceium
-description: Liquid version of Oceium,can be turned back into solid Oceium or be used to power certain machines.
+description: Liquid version of Oceium,cannot be turned back into solid Oceium,can be used to power certain machines.
 temperature: 0.2
 viscosity: 0.6
-effect: melting
+effect: tarred
 color: 1b00a1
