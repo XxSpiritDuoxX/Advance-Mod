@@ -1,0 +1,8 @@
+type: floor
+name: Lava
+liquidDrop: lava
+damageTaken: 20
+status: melting
+statusDuration: 180
+variants: 1
+playerUnmineable: true
