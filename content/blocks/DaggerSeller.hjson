@@ -1,0 +1,27 @@
+type: GenericCrafter
+name: Dagger Seller
+description: Sells Dagger mechs for 15 Coins
+health: 300
+liquidCapacity: 30
+size: 1
+hasPower: false
+hasLiquids: true
+hasItems: true
+craftTime: 20
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.25
+  items: {
+    items: [
+      dagger/1
+    ]
+  }
+}
+requirements: [
+  coin/600
+]
+category: crafting
+research: silver-crucible
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: coin/15
