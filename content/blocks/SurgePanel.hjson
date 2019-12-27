@@ -1,0 +1,12 @@
+type: SolarGenerator
+name: SurgePanel
+description: Magically produces power from gold powder. Don't ask.
+size: 2
+powerProduction: 2.5
+requirements: [
+  phase-abric/20
+  silicon/100
+  surge-alloy/20
+]
+category: power
+research: solar-panel-large
