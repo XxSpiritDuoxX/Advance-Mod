@@ -21,7 +21,7 @@ requirements: [
   coin/100
 ]
 category: crafting
-research: silver-crucible
+research: duo
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: coin/3
