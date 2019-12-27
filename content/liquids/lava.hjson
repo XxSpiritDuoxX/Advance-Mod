@@ -1,1 +1,8 @@
-
+name: Lava
+description: a Very hot liquid found under the earth
+temperature: 0.9
+viscosity: 0.6
+effect: melting
+color: ff0000
+barcolor: ff0000
+lightcolor: ff0000
