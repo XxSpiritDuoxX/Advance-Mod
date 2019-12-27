@@ -1,0 +1,5 @@
+type: material
+name: T1 Nuke
+description: A dangerous ammunition used for Launchers
+explosiveness: 0.2
+color: ff0000
