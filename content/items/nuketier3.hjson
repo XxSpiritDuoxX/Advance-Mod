@@ -1,0 +1,6 @@
+type: material
+name: T3 Nuke
+description: Highest tier nuke
+explosiveness: 0.8
+radioactivity: 0.2
+color: ffff00
