@@ -12,5 +12,5 @@ weapon: {
   reload: 6
   bulletShrink: 0
   alternate: true
-  bullet: standardThorium
+  bullet: standardThoriumBig
   }
