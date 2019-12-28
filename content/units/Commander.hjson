@@ -15,8 +15,8 @@ weapon: {
   bullet: commanderbullets: {
     speed: 8
     damage: 150
-    bulletWidth:10
-    bulletHeight:15
+    bulletWidth:20
+    bulletHeight:30
     backColor: 000000
     frontColor: ffffff
     bulletShrink: 0
