@@ -1,0 +1,48 @@
+type: itemTurret
+name: Nuke Launcher
+description: Shoots targets from afar,Great Anti-boss turret
+health: 1000
+size: 3
+reload: 120
+range: 600
+ammoUseEffect: shellEjectSmall
+inaccuracy: 0
+rotatespeed: 12
+maxAmmo: 50
+ammo: {
+  titanium: {
+    speed: 15
+    damage: 200
+    bulletWidth: 10
+    bulletHeight: 20
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+  thorium: {
+    speed: 15
+    damage: 300
+    bulletWidth: 10
+    bulletHeight: 20
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+   oceium: {
+    speed: 15
+    damage: 450
+    bulletWidth: 10
+    bulletHeight: 20
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+}
+requirements: [
+  thorium/150
+  titanium/200
+  silicon/100
+  surge-alloy/100
+]
+category: turret
+research: ripple
