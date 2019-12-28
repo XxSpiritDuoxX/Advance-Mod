@@ -1,4 +1,4 @@
-type: material
+type: resource
 name: T3 Nuke
 description: Highest tier nuke
 explosiveness: 0.8
