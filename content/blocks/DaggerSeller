@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Dagger Seller
-description: Sells Dagger mechs for 15 Coins
+description: Sells Dagger mechs for 15 Coins.
 health: 300
 liquidCapacity: 30
 size: 1
