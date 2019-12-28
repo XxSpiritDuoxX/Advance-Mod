@@ -1,6 +1,6 @@
 type: itemTurret
 name: Nuke Launcher
-description: This is more like a toy,however,because on how light plastic is,the bullets can shoot from far
+description: Incredible Anti boss weapon,only flaw is its reload time,reccomended to manually reload the beast so that it does not waste its nukes of low hp targets
 health: 2000
 size: 4
 reload: 600
