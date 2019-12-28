@@ -17,6 +17,7 @@ ammo: {
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 1
+    maxAmmo: 100
   }
     titanium: {
     speed: 3
@@ -26,6 +27,7 @@ ammo: {
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 1
+    maxAmmo: 100
   }
 }
 requirements: [
