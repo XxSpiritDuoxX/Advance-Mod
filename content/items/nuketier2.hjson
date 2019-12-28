@@ -1,4 +1,4 @@
-type: material
+type: resource
 name: T2 Nuke
 description: A more deadlier nuke
 explosiveness: 0.4
