@@ -5,6 +5,7 @@ health: 800
 size: 2
 reload: 4
 range: 25
+maxAmmo: 100
 ammoUseEffect: shellEjectSmall
 inaccuracy: 10
 rotatespeed: 12
@@ -17,7 +18,7 @@ ammo: {
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 1
-    maxAmmo: 100
+
   }
     titanium: {
     speed: 3
@@ -27,7 +28,6 @@ ammo: {
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 1
-    maxAmmo: 100
   }
 }
 requirements: [
