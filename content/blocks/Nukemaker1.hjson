@@ -1,0 +1,30 @@
+type: GenericSmelter
+name: T1 Nuke factory
+description: Makes T1 Nukes,Weapons of mass destruction and boss killers,nukes are reccomended if you want to take down units such as eradicators
+health: 400
+liquidCapacity: 30
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 900
+updateEffect: smeltsmoke
+consumes: {
+  power: 1
+  items: {
+    items: [
+      blast-compound/15
+      lead/20
+    ]
+  }
+}
+requirements: [
+  titanium/100
+  thorium/80
+  silicon/40
+]
+category: crafting
+research: blast-mixer
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: nuketier1/1
