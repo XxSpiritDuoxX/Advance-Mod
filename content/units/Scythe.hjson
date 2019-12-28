@@ -17,5 +17,14 @@ weapon: {
   frontColor: ffffff
   bulletShrink: 0
   alternate: true
-  bullet: standardThorium
-}
+  bullet: commanderbullets: {
+    speed: 8
+    damage: 40
+    bulletWidth:10
+    bulletHeight:15
+    backColor: 000000
+    frontColor: ffffff
+    bulletShrink: 0
+    alternate: true
+    }
+  }
