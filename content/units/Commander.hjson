@@ -12,13 +12,6 @@ weapon: {
   reload: 6
   bulletShrink: 0
   alternate: true
-  bullet: Commanderbullets: {
-  lifetime: 240
-  damage: 200
-  bulletWidth:25
-  bulletHeight:30
-  backColor: 000000
-  frontColor: ffffff
-  }
+  bullet: standardThorium
   }
 }
