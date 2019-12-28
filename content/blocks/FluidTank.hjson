@@ -1,0 +1,13 @@
+name: Thorium Tank
+description: Stores Extra liquid
+type: Vault
+liquidCapacity: 4000
+hasItems: true
+health: 2000
+size: 3
+requirements: [
+  thorium/40
+  metaglass/40
+]
+category: effect
+research: liquid-tank
