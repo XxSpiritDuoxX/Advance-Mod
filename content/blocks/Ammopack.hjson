@@ -1,0 +1,12 @@
+name: Ammo Box
+description: Made for storing ammo,good item capacity and good HP makes ths more reliable than the Plastic Box,on top of all that,it is space efficient just like the Plastic Box
+type: Vault
+itemCapacity: 200
+hasItems: true
+health: 800
+size: 1
+requirements: [
+  Titanium/60
+]
+category: effect
+research: PlasticBox
