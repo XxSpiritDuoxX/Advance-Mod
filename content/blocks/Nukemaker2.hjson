@@ -1,0 +1,30 @@
+type: GenericSmelter
+name: T2 Nuke factory
+description: Makes T2 Nukes
+health: 400
+liquidCapacity: 30
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 900
+updateEffect: smeltsmoke
+consumes: {
+  power: 1.2
+  items: {
+    items: [
+      blast-compound/30
+      titanium/25
+    ]
+  }
+}
+requirements: [
+  titanium/150
+  thorium/120
+  silicon/60
+]
+category: crafting
+research: Nukemaker1
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: nuketier2/1
