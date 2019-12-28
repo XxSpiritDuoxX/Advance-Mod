@@ -20,4 +20,5 @@ weapon: {
   backColor: 000000
   frontColor: ffffff
   }
+  }
 }
