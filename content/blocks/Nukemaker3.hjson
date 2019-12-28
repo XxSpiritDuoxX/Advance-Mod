@@ -1,0 +1,30 @@
+type: GenericSmelter
+name: T3 Nuke factory
+description: Makes T3 Nukes
+health: 400
+liquidCapacity: 30
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 900
+updateEffect: smeltsmoke
+consumes: {
+  power: 1.5
+  items: {
+    items: [
+      blast-compound/50
+      thorium/40
+    ]
+  }
+}
+requirements: [
+  thorium/150
+  oceium/40
+  silicon/80
+]
+category: crafting
+research: Nukemaker2
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: nuketier3/1
