@@ -12,14 +12,5 @@ weapon: {
   reload: 6
   bulletShrink: 0
   alternate: true
-  bullet: commanderbullets: {
-    speed: 8
-    damage: 150
-    bulletWidth:20
-    bulletHeight:30
-    backColor: 000000
-    frontColor: ffffff
-    bulletShrink: 0
-    alternate: true
-    }
+  bullet: standardThorium
   }
