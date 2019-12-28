@@ -6,7 +6,8 @@ hasItems: true
 health: 2000
 size: 3
 requirements: [
-  thorium/40
+  thorium/20
+  titanium/40
   metaglass/40
 ]
 category: effect
