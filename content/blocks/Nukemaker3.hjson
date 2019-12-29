@@ -1,9 +1,9 @@
 type: GenericSmelter
 name: T3 Nuke factory
 description: Makes T3 Nukes
-health: 400
+health: 1000
 liquidCapacity: 30
-size: 2
+size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
