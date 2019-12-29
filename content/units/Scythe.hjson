@@ -17,5 +17,5 @@ weapon: {
   frontColor: ffffff
   bulletShrink: 0
   alternate: true
-  bullet: stanardThorium
+  bullet: standardThorium
   }
