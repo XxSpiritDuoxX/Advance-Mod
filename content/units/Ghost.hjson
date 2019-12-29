@@ -1,0 +1,21 @@
+type: groundUnit
+name: Ghost
+description: Unit that uses special technology to be transparent,fast as well
+speed: 0.125
+flying: false
+health: 200
+engineOffset: 5.5
+range: 32
+weapon: {
+  name: ghostgun
+  length: 1.5
+  reload: 30
+  damage: 50
+  bulletWidth:10
+  bulletHeight:10
+  backColor: 000000
+  frontColor: ffffff
+  bulletShrink: 0
+  alternate: true
+  bullet: standardIncendiary
+}
