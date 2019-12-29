@@ -1,5 +1,5 @@
 type: itemTurret
-name: Nuke Launcher
+name: Sniper
 description: Shoots targets from afar,Great Anti-boss turret
 health: 1000
 size: 3
