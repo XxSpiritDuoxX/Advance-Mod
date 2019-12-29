@@ -1,5 +1,5 @@
 type: SolarGenerator
-name: SurgePanel
+name: Surge Panel
 description: Uses the built in Surge alloy to greatly enhance the power generated
 size: 2
 powerProduction: 2.5
