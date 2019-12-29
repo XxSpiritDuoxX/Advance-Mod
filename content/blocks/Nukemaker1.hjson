@@ -3,7 +3,7 @@ name: T1 Nuke factory
 description: Makes T1 Nukes,Weapons of mass destruction and boss killers,nukes are reccomended if you want to take down units such as eradicators
 health: 400
 liquidCapacity: 30
-size: 2
+size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
