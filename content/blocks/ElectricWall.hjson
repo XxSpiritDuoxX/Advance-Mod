@@ -1,0 +1,14 @@
+name: Electrical Wall
+description: A Wall made to Electrify any attacker,though costly,will be worth the price,Anti-Melee
+type: Wall
+health: 1000
+lightningChance: 1
+lightningDamage: 8
+lightningLength: 10
+size: 1
+requirements: [
+  surge-alloy/15
+  electrical-core/1
+]
+category: defense
+research: surge-wall
