@@ -1,0 +1,22 @@
+type: MinerDrone
+name: Corix
+description: A Rank 3 Miner Drone
+speed: 0.125
+flying: true
+health: 1500
+engineOffset: 5.5
+range: 10
+minePower: 5
+weapon: {
+  name: minemine
+  length: 1.5
+  reload: 5
+  damage: 50
+  bulletWidth:10
+  bulletHeight:15
+  backColor: 000000
+  frontColor: ffffff
+  bulletShrink: 0
+  alternate: true
+  bullet: standardThorium
+  }
