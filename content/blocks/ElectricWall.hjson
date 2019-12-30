@@ -8,7 +8,7 @@ lightningLength: 10
 size: 1
 requirements: [
   surge-alloy/15
-  electrical-core/1
+  electricalcore/1
 ]
 category: defense
 research: surge-wall
