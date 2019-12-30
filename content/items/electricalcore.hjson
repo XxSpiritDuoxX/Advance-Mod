@@ -1,0 +1,5 @@
+type: resource
+name: Electrical Base
+description: A Base with electrical properties,often used to make small and light cores for giant robots such as Eradicators and Chaos arrays
+explosiveness: 0.1
+color: f1ff5c
