@@ -1,0 +1,25 @@
+name: Altoz City - 1
+description: you recieve a call for help from Altox City,you know its serious because Altoz City is Heavily Fortified,you rush there carrying alot of materials only to realize,there is nothing but ash and lava,Member 3 has detected enemy forces coming,you are being rushed from all sides,defend the position for 60 waves | Note: i reccomend you launch by the time you reach wave 60 or [red]else the Commander and his forces will arrive.
+loadout: basicFoundation
+startingItems: 
+  copper/1000
+  lead/1000
+  titanium/500
+]
+launchPeriod: 60
+ZoneWave: 60
+requirements: [
+  {
+    type: ZoneWave
+    zone: desolateRifts
+    wave: 20
+  }
+]
+resources: [
+  copper
+  lead
+  titanium
+  thorium
+  sand
+  coal
+]
