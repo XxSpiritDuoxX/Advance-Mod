@@ -17,7 +17,7 @@ weapon: {
   frontColor: ffffff
   bulletShrink: 0
   alternate: true
-  bullet: thorium-blade:{
+  bullet:{
     damage: 300
     bulletWidth: 10
     bulletHeight: 10
