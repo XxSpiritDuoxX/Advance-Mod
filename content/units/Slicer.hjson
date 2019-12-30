@@ -10,19 +10,6 @@ weapon: {
   name: thorium-blade
   length: 1.5
   reload: 30
-  damage: 300
-  bulletWidth:10
-  bulletHeight:10
-  backColor: 000000
-  frontColor: ffffff
-  bulletShrink: 0
   alternate: true
-  bullet:{
-    damage: 300
-    bulletWidth: 10
-    bulletHeight: 10
-    backColor: 000000
-    frontColor: ffffff
-    bulletShrink: 0
-    }
+  bullet: standardThoriumBig
 }
