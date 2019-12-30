@@ -1,6 +1,6 @@
 type: floor
 name: Lava
-liquidDrop: lava
+liquidDrop: liquidlava
 damageTaken: 20
 status: melting
 statusDuration: 180
