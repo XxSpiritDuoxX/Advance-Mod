@@ -1,0 +1,11 @@
+name: Large Electrical Wall
+description: A larger Electrical Wall that outputs stronger lightning
+type: Wall
+health: 5000
+lightningChance: 1
+lightningDamage: 12
+lightningLength: 12
+size: 1
+requirements: [
+  surge-alloy/80
+  electricalcore/2
