@@ -9,3 +9,5 @@ size: 1
 requirements: [
   surge-alloy/80
   electricalcore/2
+]
+research: ElectricWall
