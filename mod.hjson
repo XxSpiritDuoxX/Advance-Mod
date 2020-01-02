@@ -1,6 +1,6 @@
 name: "Advance Mod"
 displayName: "[blue]Advance[white] Mod" //what displays in the mod selection menu
 author: "XxSpiritDuoxX"
-description: "A new mod that tries to expand mindustry,Maps will come soon,maybe during January 10 or above because i will need my laptop to upload the map files,and also after January 6 2020,i will be uploading new updates moe slowly because of [red]School"
+description: "A new mod that tries to expand mindustry,Maps will come soon,maybe during January 10 or above because i will need my laptop to upload the map files,and also after January 6 2020,i will be uploading new updates more slowly because of [red]School"
 version: "2"
-minGameVersion: "101"
+minGameVersion: "101.1"
