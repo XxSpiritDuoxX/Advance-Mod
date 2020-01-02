@@ -1,5 +1,5 @@
 type: resource
-name: [yellow]Ultracore
-description: a core used to often power Reapers and similar things [white](No use [yellow]yet[white])
+name: Ultracore
+description: a core used to often power Reapers and other things,has no use yet
 explosiveness: 0.3
 color: fbff9a
