@@ -11,4 +11,4 @@ requirements: [
   electricalcore/2
 ]
 research: ElectricWall
-category: Walls
+category: defense
