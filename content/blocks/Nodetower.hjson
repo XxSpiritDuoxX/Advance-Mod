@@ -1,0 +1,17 @@
+name: Super Node
+description: Improved Surge tower
+type: PowerNode
+health: 600
+hasPower: true
+group: power
+laserRange: 35
+maxNodes: 10
+size: 1
+requirements: [
+  thorium/25
+  silicon/20
+  titanium/20
+  surge-alloy/20
+]
+category: power
+research: Supernode
