@@ -1,0 +1,25 @@
+name: Chaos Factory
+description: Makes Chaos Arrays known to destroy copper and titanium defences,uses an electrical core to power its large body
+type: UnitFactory
+unitType: chaos-array
+size: 3
+itemCapacity: 80
+hasItems: true
+produceTime: 2400
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      electricalcore/1
+      titanium/40
+      silicon/40
+    ]
+  }
+}
+category: units
+research: fortress-factory
+requirements: [
+  silicon/150
+  titanium/150
+  thorium/200
+]
