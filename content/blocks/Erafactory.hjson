@@ -1,24 +1,25 @@
 name: Eradicator Factory
-description: Makes Eradicators known to destroy almost everything in their path,hard to produce as well...
+description: Makes Eradicators known to destroy everything in their path
 type: UnitFactory
 unitType: eradicator
 size: 4
-itemCapacity: 160
+itemCapacity: 240
 hasItems: true
-produceTime: 3000
+produceTime: 3600
 consumes: {
-  power: 1.5
+  power: 4
   items: {
     items: [
       electricalcore/1
-      thorium/80
-      silicon/80
+      thorium/120
+      silicon/120
     ]
   }
+}
 category: units
-research: Chafactory
+research: fortress-factory
 requirements: [
-  silicon/150
-  titanium/150
-  thorium/200
+  silicon/400
+  titanium/400
+  thorium/600
 ]
