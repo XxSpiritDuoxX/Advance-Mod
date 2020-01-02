@@ -1,7 +1,7 @@
 name: Reaper Factory
 description: Makes Reapers,sometimes called The Ruler of the Skies,destroying even the strongest bases,was called the strongest ship made,but we know thats far from the truth.
 type: UnitFactory
-unitType: eradicator
+unitType: reaper
 size: 5
 itemCapacity: 800
 hasItems: true
