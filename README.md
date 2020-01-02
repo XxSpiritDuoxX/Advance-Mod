@@ -7,5 +7,6 @@ Added Walls,Powernodes,etc[]
 Nerfed Scythe + Enlarged sprite[]
 fixed sprites of stuff,lava may or may not have been fixed[]
 added factories[]
-other stuff[]
-added Chaos array factory
+nerfing the bank[]
+added Chaos array factory[]
+Buffed Nuke launcher
