@@ -24,4 +24,4 @@ category: crafting
 research: silver-crucible
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: coin/4
+outputItem: coin/2
