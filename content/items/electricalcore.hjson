@@ -1,5 +1,5 @@
 type: resource
-name: [yellow]Electrical Base [white]OR [yellow]Electrical Core
+name: Electrical Core
 description: A Base with electrical properties,often used to make small and light cores for giant robots such as Eradicators and Chaos arrays,also named Electrial Core
 explosiveness: 0.1
 color: f1ff5c
