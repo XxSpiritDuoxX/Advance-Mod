@@ -6,10 +6,11 @@ flying: false
 health: 800
 engineOffset: 5.5
 range: 12
+targetAir: false
 weapon: {
   name: thorium-blade
   length: 1.5
   reload: 30
   alternate: true
-  bullet: standardThoriumBig
+  bullet:standardThoriumBig
 }
