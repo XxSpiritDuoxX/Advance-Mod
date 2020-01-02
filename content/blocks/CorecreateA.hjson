@@ -1,0 +1,30 @@
+type: GenericSmelter
+name: Core Creator A
+description: Uses Surge alloy,Silicon,and Power to make Electrical Cores,cores used to power large machines without ever needing to recharge,such as the Chaos Array or Eradicator,can be upgraded into Ultracores to make things like Reapers or other machines
+health: 500
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+itemCapacity: 40
+craftTime: 720
+updateEffect: smeltsmoke
+consumes: {
+  power: 5
+  items: {
+    items: [
+      surge-alloy/20
+      silicon/10
+    ]
+  }
+}
+requirements: [
+  surge-alloy/125
+  silicon/100
+  thorium/100
+]
+category: crafting
+research: alloy-smelter
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: electricalcore/1
