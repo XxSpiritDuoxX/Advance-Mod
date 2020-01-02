@@ -4,7 +4,7 @@ type: Wall
 health: 40
 hasPower: true
 group: power
-laserRange: 120
+laserRange: 25
 maxNodes: 6
 size: 1
 requirements: [
