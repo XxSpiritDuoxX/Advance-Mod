@@ -1,9 +1,9 @@
 type: Revenant
 name: Scythe
 description: A minature version of the Reaper,though small,its speed is quite fast for a heavily armored ship
-speed: 0.025
+speed: 0.05
 flying: true
-health: 2500
+health: 2000
 engineOffset: 5.5
 range: 120
 weapon: {
