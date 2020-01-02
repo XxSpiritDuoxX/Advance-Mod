@@ -1,0 +1,32 @@
+type: GenericSmelter
+name: Core Upgrader A
+description: Uses Electrical cores,Surge alloy,and Oceium
+health: 1000
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+itemCapacity: 40
+craftTime: 1200
+updateEffect: smeltsmoke
+consumes: {
+  power: 5
+  items: {
+    items: [
+      electricalcore/1
+      surge-alloy/40
+      oceium/20
+    ]
+  }
+}
+requirements: [
+  surge-alloy/250
+  silicon/5
+  thorium/150
+  oceium/100
+]
+category: crafting
+research: alloy-smelter
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: ultracore/1
