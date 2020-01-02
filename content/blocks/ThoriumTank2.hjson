@@ -2,7 +2,7 @@ name: Thorium Tank
 description: Stores Extra liquid
 type: Vault
 liquidCapacity: 4000
-hasItems: true
+hasLiquid: true
 health: 2000
 size: 3
 requirements: [
