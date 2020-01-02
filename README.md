@@ -6,7 +6,7 @@ Jan 2,2020 |
 Added Walls,Powernodes,etc[]
 Nerfed Scythe + Enlarged sprite[]
 fixed sprites of stuff,lava may or may not have been fixed[]
-added factories[]
-nerfing the bank[]
+Added more factories[]
+Nerfed the bank[]
 added Chaos array factory[]
-Buffed Nuke launcher
+Buffed Nuke launcher (Nuke damage,speed,and AOE effect increased by 50%) and Sniper (+10 Bullet speed)
