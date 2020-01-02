@@ -1,0 +1,28 @@
+name: Reaper Factory
+description: Makes Reapers,sometimes called The Ruler of the Skies,destroying even the strongest bases,was called the strongest ship made,but we know thats far from the truth.
+type: UnitFactory
+unitType: eradicator
+size: 5
+itemCapacity: 800
+hasItems: true
+produceTime: 3600
+consumes: {
+  power: 10
+  items: {
+    items: [
+      ultracore/1
+      thorium/300
+      silicon/300
+      titanium/400
+    ]
+  }
+}
+category: units
+research: Scyfactory
+requirements: [
+  silicon/800
+  titanium/800
+  thorium/1200
+  surge-alloy/1000
+  plastanium/600
+]
