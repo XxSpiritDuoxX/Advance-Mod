@@ -1,0 +1,16 @@
+name: Super Node
+description: Improved Power node
+type: PowerNode
+health: 100
+hasPower: true
+group: power
+laserRange: 30
+maxNodes: 40
+size: 1
+requirements: [
+  thorium/5
+  silicon/4
+  titanium/10
+]
+category: power
+research: power-node
