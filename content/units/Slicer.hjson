@@ -5,7 +5,7 @@ speed: 0.08
 flying: false
 health: 800
 engineOffset: 5.5
-range: 2
+range: 12
 weapon: {
   name: thorium-blade
   length: 1.5
