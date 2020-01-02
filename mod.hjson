@@ -2,5 +2,5 @@ name: "Advance Mod"
 displayName: "[blue]Advance[white] Mod" //what displays in the mod selection menu
 author: "XxSpiritDuoxX"
 description: "A new mod,this tries to expand mindustry"
-version: "1"
+version: "2"
 minGameVersion: "101"
