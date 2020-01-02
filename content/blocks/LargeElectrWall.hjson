@@ -5,9 +5,10 @@ health: 5000
 lightningChance: 1
 lightningDamage: 12
 lightningLength: 12
-size: 1
+size: 2
 requirements: [
   surge-alloy/80
   electricalcore/2
 ]
 research: ElectricWall
+category: Walls
