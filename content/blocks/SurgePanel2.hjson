@@ -6,7 +6,7 @@ powerProduction: 2.5
 requirements: [
   phase-fabric/20
   silicon/100
-  surge-alloy/20
+  surge-alloy/40
 ]
 category: power
 research: solar-panel-large
