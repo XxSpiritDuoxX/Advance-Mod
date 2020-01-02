@@ -11,7 +11,7 @@ rotatespeed: 12
 maxAmmo: 50
 ammo: {
   titanium: {
-    speed: 15
+    speed: 25
     damage: 200
     bulletWidth: 10
     bulletHeight: 20
@@ -20,7 +20,7 @@ ammo: {
     ammoMultiplier: 1
   }
   thorium: {
-    speed: 15
+    speed: 25
     damage: 300
     bulletWidth: 10
     bulletHeight: 20
@@ -29,7 +29,7 @@ ammo: {
     ammoMultiplier: 1
   }
    oceium: {
-    speed: 15
+    speed: 25
     damage: 450
     bulletWidth: 10
     bulletHeight: 20
