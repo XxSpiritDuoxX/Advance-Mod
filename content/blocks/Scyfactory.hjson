@@ -1,7 +1,7 @@
 name: Scythe Factory
 description: Makes Scythes,Small but Powerful version of the well known Reaper,despite its small size,this thing an take out a few chaos arrays,but is not always reliable,it also needs an electrical core bececause of the motherboard,its crazy how manuverable it is,and it moving to a new spot of attack when attacked.
 type: UnitFactory
-unitType: Scythe
+unitType: Scythe2
 size: 2
 itemCapacity: 70
 hasItems: true
