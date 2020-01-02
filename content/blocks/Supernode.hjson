@@ -4,7 +4,7 @@ type: PowerNode
 health: 100
 hasPower: true
 group: power
-laserRange: 30
+laserRange: 12
 maxNodes: 40
 size: 1
 requirements: [
