@@ -1,5 +1,7 @@
 type: floor
 name: Lava
+isLiquid: true
+drownTime: 36000
 liquidDrop: liquidlava
 damageTaken: 5
 speedMultiplier: 0.6
