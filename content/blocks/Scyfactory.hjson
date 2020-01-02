@@ -14,8 +14,8 @@ consumes: {
       thorium/35
       silicon/35
     ]
-    }
   }
+}
 category: units
 research: wraith-factory
 requirements: [
