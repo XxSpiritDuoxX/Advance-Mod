@@ -1,15 +1,15 @@
 name: Red Power Node
-description: Better range than range of a normal Power Node,but has lesser connections
-type: Wall
-health: 40
+description: Better range than range of a normal Power Node,but has much lesser connections
+type: PowerNode
+health: 50
 hasPower: true
 group: power
-laserRange: 25
+laserRange: 18
 maxNodes: 6
 size: 1
 requirements: [
-  copper/2
-  titanium/2
+  silicon/5
+  titanium/5
 ]
 category: power
 research: power-node
