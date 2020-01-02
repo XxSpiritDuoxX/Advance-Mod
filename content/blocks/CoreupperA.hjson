@@ -1,6 +1,6 @@
 type: GenericSmelter
 name: Core Upgrader A
-description: Uses Electrical cores,Surge alloy,and Oceium
+description: Uses Electrical cores,Surge alloy,and Oceium to make Ultracores
 health: 1000
 size: 3
 hasPower: true
