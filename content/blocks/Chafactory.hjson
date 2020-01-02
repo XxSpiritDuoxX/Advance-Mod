@@ -5,7 +5,7 @@ unitType: chaos-array
 size: 3
 itemCapacity: 80
 hasItems: true
-produceTime: 2400
+produceTime: 1800
 consumes: {
   power: 0.5
   items: {
