@@ -1,7 +1,7 @@
 type: itemTurret
 name: Nuke Launcher
 description: Incredible Anti boss weapon,only flaw is its reload time,reccomended to manually reload the beast so that it does not waste its nukes of low hp targets
-health: 2000
+health: 3000
 size: 4
 reload: 600
 range: 800
@@ -11,10 +11,10 @@ rotatespeed: 12
 maxAmmo: 2
 ammo: {
   nuketier1: {
-    speed: 8
+    speed: 12
     damage: 500
-    splashDamage: 1000
-    splashDamageRadius: 80
+    splashDamage: 1500
+    splashDamageRadius: 120
     bulletWidth: 14
     bulletHeight: 18
     shootEffect: shootSmall
@@ -22,10 +22,10 @@ ammo: {
     ammoMultiplier: 1
   }
   nuketier2: {
-    speed: 8
-    damage: 500
-    splashDamage: 2500
-    splashDamageRadius: 96
+    speed: 12
+    damage: 1500
+    splashDamage: 3750
+    splashDamageRadius: 140
     bulletWidth: 14
     bulletHeight: 18
     shootEffect: shootSmall
@@ -33,10 +33,10 @@ ammo: {
     ammoMultiplier: 1
   }
   nuketier3: {
-    speed: 8
-    damage: 500
-    splashDamage : 5000
-    splashDamageRadius: 120
+    speed: 12
+    damage: 2250
+    splashDamage : 7500
+    splashDamageRadius: 180
     bulletWidth: 14
     bulletHeight: 18
     shootEffect: shootSmall
