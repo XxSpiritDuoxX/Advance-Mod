@@ -1,7 +1,7 @@
 type: groundUnit
 name: Ghost
 description: Unit that uses special technology to be transparent,fast as well
-speed: 0.125
+speed: 0.2
 flying: false
 health: 200
 engineOffset: 5.5
