@@ -2,7 +2,7 @@
     "type": "groundUnit",
     "name": "Slicer",
     "description": "Effective anti wall,made to destroy walls (Custom bullet made possible by looking at other people's code,o id like to thank the modders out there)",
-    "speed": 0.4,
+    "speed": 0.15,
     "flying":false,
     "engineSize": 4,
     "engineOffset": 10,
