@@ -3,7 +3,7 @@ This is a new mod that still has some of the example mod stuff in it,in the futu
 
 # Updates
 Jan 3,2020 |
-Added Lich + Commander factory (Commander factory is only for sandbos)[] Buffed Scythe Speed [] increased Commander HP by 25,000 [] Buffed Electric Walls HP by 6x [] Fixed Slicer [] Added Emperor A (Megaboss) [] Added Emperor B (Megaboss) [] Added Core - Omega,a 10x10 Core
+Added Lich + Commander factory (Commander factory is only for sandbos)[] Buffed Scythe Speed [] increased Commander HP by 25,000 [] Buffed Electric Walls HP by 6x [] Fixed Slicer [] Added Emperor A (Megaboss) [] Added Emperor B (Megaboss) [] Added Core - Omega,a 10x10 Core [] Added an ideas thing in the ussues (not meant for that but,give me ideas)
 
 Jan 2,2020 |
 Added Walls,Powernodes,etc[]
