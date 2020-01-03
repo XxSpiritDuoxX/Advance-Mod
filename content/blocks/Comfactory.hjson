@@ -1,0 +1,27 @@
+name: Commander Factory
+description: Sandbox Only,Why did i put this in the mod?,this boss factory?,its simple,i know that someone playing this mod WILL want it,have fun destroying Attack maps with this
+type: UnitFactory
+unitType: Commander
+size: 8
+itemCapacity: 4500
+hasItems: true
+produceTime: 4800
+consumes: {
+  power: 100
+  items: {
+    items: [
+      ultracore/4
+      thorium/2500
+      silicon/1500
+      titanium/1500
+    ]
+  }
+}
+category: units
+research: Reafactory
+requirements: [
+  silicon/8000
+  titanium/8000
+  thorium/12000
+  surge-alloy/10000
+]
