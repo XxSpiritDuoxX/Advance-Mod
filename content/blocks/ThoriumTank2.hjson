@@ -1,14 +1,16 @@
 name: Thorium Tank
-description: Stores Extra liquid
-type: Vault
+description: Stores Extra liquid,can store 400 items too!
+type: StorageBlock
 liquidCapacity: 4000
+itemcapacity: 400
 hasLiquid: true
+hasItems: true
 health: 2000
 size: 3
 requirements: [
-  thorium/20
-  titanium/40
-  metaglass/40
+  thorium/120
+  titanium/80
+  metaglass/60
 ]
 category: effect
 research: liquid-tank
