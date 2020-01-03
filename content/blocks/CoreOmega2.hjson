@@ -5,7 +5,7 @@ itemCapacity: 80000
 hasItems: true
 health: 30000
 mech: glaive-ship
-size: 10
+size: 8
 requirements: [
   thorium/20000
   silicon/18000
