@@ -1,0 +1,31 @@
+{
+    "type": "groundUnit",
+    "name": "Emperor A",
+    "description": "Unknown.....",
+    "speed": 0.05
+    "flying":false,
+    "engineSize": 8,
+    "engineOffset": 10,
+    "hitsize": 28,
+    "health": 5000000,
+    "itemCapacity": 125000,
+    "range": 6
+    "weapon":{
+        "name": "titanium-sword",
+        "length":80.0,
+        "width":80.0,
+        "reload":120,
+        "shots":1,
+        "velocityRnd": 0.1,
+        "inaccuracy": 0,
+        "alternate": true,
+        "ejectEffect": "shellEjectSmall",
+        "bullet": {
+				"type": "BasicBulletType",
+				"lifetime": 15,
+				"speed": 15,
+				"damage": 5000,
+		},
+        "shootSound": "shootSnap"
+    }
+}
