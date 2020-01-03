@@ -1,0 +1,28 @@
+name: Lich Factory
+description: Makes Liches,Ships of Destruction,bombing bases with heat seeking missiles,Decimating things in their path
+type: UnitFactory
+unitType: lich
+size: 5
+itemCapacity: 400
+hasItems: true
+produceTime: 3600
+consumes: {
+  power: 10
+  items: {
+    items: [
+      ultracore/1
+      thorium/150
+      silicon/150
+      titanium/200
+    ]
+  }
+}
+category: units
+research: ghoul-factory
+requirements: [
+  silicon/500
+  titanium/500
+  thorium/1000
+  surge-alloy/600
+  plastanium/400
+]
