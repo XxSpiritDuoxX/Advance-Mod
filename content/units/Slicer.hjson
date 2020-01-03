@@ -2,19 +2,19 @@
     "type": "groundUnit",
     "name": "Slicer",
     "description": "Effective anti wall,made to destroy walls (Custom bullet made possible by looking at other people's code,o id like to thank the modders out there)",
-    "speed": 0.75,
+    "speed": 0.4,
     "flying":false,
     "engineSize": 4,
     "engineOffset": 10,
-    "hitsize": 15,
+    "hitsize": 7,
     "health": 800,
     "itemCapacity": 60,
-    "range": 24
+    "range": 3
     "weapon":{
         "name": "titanium-sword",
         "length":15.0,
         "width":15.0,
-        "reload":30,
+        "reload":60,
         "shots":1,
         "velocityRnd": 0.1,
         "inaccuracy": 0,
@@ -22,7 +22,7 @@
         "ejectEffect": "shellEjectSmall",
         "bullet": {
 				"type": "BasicBulletType",
-				"lifetime": 30,
+				"lifetime": 5,
 				"speed": 11,
 				"damage": 200,
 		},
