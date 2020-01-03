@@ -1,7 +1,8 @@
 name: Mk3 Minerdrone
 description: A very efficient Miner drone,has incredible mining power,can also attack
 speed: 1.5
-boostSpeed: 1.5
+flying: true
+boostSpeed: 1
 buildPower: 1.5
 mineSpeed: 10
 itemCapacity: 100
@@ -13,7 +14,7 @@ weaponOffsetX: 4
 weapon: {
   name: flamegun
   length: 1.5
-  reload: 30
-  alternate: false
+  reload: 10
+  alternate: true
   bullet: standardIncendiary
 }
