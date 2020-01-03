@@ -1,0 +1,16 @@
+name: Mk3 Miner Pad
+description: Transform into a Mk3 Miner drone
+type: MechPad
+mech: Mastermine
+size: 2
+consumes: {
+  power: 1
+}
+category: upgrade
+research: draug-factory
+requirements: [
+  silicon/80
+  titanium/100
+  thorium/100
+  oceium/50
+]
