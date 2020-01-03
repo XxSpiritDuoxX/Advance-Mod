@@ -3,6 +3,7 @@ description: Sandbox Only,Why did i put this in the mod?,this boss factory?,its 
 type: UnitFactory
 unitType: Commander
 size: 8
+buildVisibility: sandboxOnly
 itemCapacity: 4500
 hasItems: true
 produceTime: 4800
