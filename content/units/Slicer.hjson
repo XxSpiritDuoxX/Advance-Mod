@@ -1,16 +1,31 @@
-type: groundUnit
-name: Slicer
-description: Basic melee unit,often used for destroying walls or tanking hits
-speed: 0.08
-flying: false
-health: 800
-engineOffset: 5.5
-range: 12
-targetAir: false
-weapon: {
-  name: thorium-blade
-  length: 1.5
-  reload: 30
-  alternate: true
-  bullet:standardThoriumBig
+{
+    "type": "groundUnit",
+    "name": "Slicer",
+    "description": "Effective anti wall,made to destroy walls (Custom bullet made possible by looking at other people's code,o id like to thank the modders out there)",
+    "speed": 0.75,
+    "flying":false,
+    "engineSize": 4,
+    "engineOffset": 10,
+    "hitsize": 15,
+    "health": 800,
+    "itemCapacity": 60,
+    "range": 24
+    "weapon":{
+        "name": "titanium-sword",
+        "length":15.0,
+        "width":15.0,
+        "reload":30,
+        "shots":1,
+        "velocityRnd": 0.1,
+        "inaccuracy": 0,
+        "alternate": true,
+        "ejectEffect": "shellEjectSmall",
+        "bullet": {
+				"type": "BasicBulletType",
+				"lifetime": 30,
+				"speed": 11,
+				"damage": 200,
+		},
+        "shootSound": "shootSnap"
+    }
 }
