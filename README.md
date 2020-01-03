@@ -3,7 +3,7 @@ This is a new mod that still has some of the example mod stuff in it,in the futu
 
 # Updates
 Jan 3,2020 |
-Added Lich factory [] Buffed Scythe Speed [] increased Commander HP by 25,000 [] Buffed Electric Walls HP by 6x [] Fixed Slicer [] Added Emperor A (Megaboss)
+Added Lich factory [] Buffed Scythe Speed [] increased Commander HP by 25,000 [] Buffed Electric Walls HP by 6x [] Fixed Slicer [] Added Emperor A (Megaboss) [] Added Emperor B (Megaboss)
 
 Jan 2,2020 |
 Added Walls,Powernodes,etc[]
