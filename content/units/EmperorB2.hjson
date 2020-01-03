@@ -6,7 +6,7 @@
     "flying":false,
     "engineSize": 4,
     "engineOffset": 10,
-    "hitsize": 24,
+    "hitsize": 36,
     "health": 2000000,
     "itemCapacity": 60,
     "range": 10
