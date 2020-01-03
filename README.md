@@ -2,6 +2,9 @@
 This is a new mod that still has some of the example mod stuff in it,in the future these will be gone and replaced,some stuff also have no textures,so be warned
 
 # Updates
+Jan 3,2020 |
+Added Lich factory [] Added Mk 3 Miner Pad [] Buffed Scythe Speed [] increased Commander HP by 20,000 [] Buffed Electric Walls HP by 6x
+
 Jan 2,2020 |
 Added Walls,Powernodes,etc[]
 Nerfed Scythe + Enlarged sprite[]
