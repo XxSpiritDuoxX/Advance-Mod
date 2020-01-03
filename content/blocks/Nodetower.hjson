@@ -6,7 +6,7 @@ hasPower: true
 group: power
 laserRange: 35
 maxNodes: 10
-size: 1
+size: 2
 requirements: [
   thorium/25
   silicon/20
