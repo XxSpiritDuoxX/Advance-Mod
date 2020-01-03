@@ -5,7 +5,7 @@ unitType: reaper
 size: 5
 itemCapacity: 800
 hasItems: true
-produceTime: 3600
+produceTime: 4800
 consumes: {
   power: 10
   items: {
