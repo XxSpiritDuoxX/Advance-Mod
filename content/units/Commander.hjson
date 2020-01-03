@@ -4,6 +4,7 @@ description: A powerful ship capable of destroying even the strongest of defense
 speed: 0.025
 flying: true
 health: 125000
+hitSize: 28
 engineOffset: 5.5
 range: 160
 weapon: {
