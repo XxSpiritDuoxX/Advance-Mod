@@ -1,14 +1,14 @@
 name: Large Electrical Wall
 description: A larger Electrical Wall that outputs stronger lightning,or well,that was what the inventor said
 type: Wall
-health: 30000
+health: 20000
 lightningChance: 1
 lightningDamage: 12
 lightningLength: 12
 size: 2
 requirements: [
   surge-alloy/80
-  electricalcore/2
+  electricalcore/4
 ]
 research: ElectricWall
 category: defense
