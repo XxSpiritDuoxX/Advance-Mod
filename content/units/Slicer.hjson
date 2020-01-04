@@ -9,7 +9,7 @@
     "hitsize": 7,
     "health": 700,
     "itemCapacity": 60,
-    "range": 3
+    "range": 8
     "weapon":{
         "name": "titanium-sword",
         "length":15.0,
