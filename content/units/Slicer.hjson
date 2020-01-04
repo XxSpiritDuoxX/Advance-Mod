@@ -9,7 +9,7 @@
     "hitsize": 7,
     "health": 600,
     "itemCapacity": 60,
-    "targetAir":true,
+    "targetAir":false,
     "range": 1
     "weapon":{
         "name": "titanium-sword",
