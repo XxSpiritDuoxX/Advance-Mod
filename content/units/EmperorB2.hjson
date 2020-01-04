@@ -9,7 +9,7 @@
     "hitsize": 36,
     "health": 2000000,
     "itemCapacity": 60,
-    "range": 10
+    "range": 15
     "weapon":{
         "name": "empiaricgun",
         "length":40.0,
