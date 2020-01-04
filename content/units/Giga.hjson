@@ -10,7 +10,7 @@
     "health": 2500,
     "itemCapacity": 40,
     "targetAir":false,
-    "range": 2
+    "range": 1
     "weapon":{
         "name": "handszs",
         "length":15.0,
