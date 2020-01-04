@@ -1,0 +1,32 @@
+{
+    "type": "groundUnit",
+    "name": "Otom",
+    "description": "Otom is a High class raider,just as durable as a reaper,but cant aim at flying because,well,swords",
+    "speed": 0.075,
+    "flying":false,
+    "engineSize": 6,
+    "engineOffset": 10,
+    "hitsize": 15,
+    "health": 12500,
+    "itemCapacity": 40,
+    "targetAir":false,
+    "range": 1
+    "weapon":{
+        "name": "bighands",
+        "length":15.0,
+        "width":15.0,
+        "reload":120,
+        "shots":1,
+        "velocityRnd": 0.1,
+        "inaccuracy": 0,
+        "alternate": true,
+        "ejectEffect": "shellEjectSmall",
+        "bullet": {
+				"type": "BasicBulletType",
+				"lifetime": 10,
+				"speed": 5,
+				"damage": 800,
+		},
+        "shootSound": "shootSnap"
+    }
+}
