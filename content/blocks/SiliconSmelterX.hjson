@@ -22,7 +22,7 @@ requirements: [
   coin/300
 ]
 category: crafting
-research: silver-crucible
+research: TitaniumSell
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: silicon/2
