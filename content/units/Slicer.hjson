@@ -7,9 +7,9 @@
     "engineSize": 4,
     "engineOffset": 10,
     "hitsize": 7,
-    "health": 700,
+    "health": 650,
     "itemCapacity": 60,
-    "range": 8
+    "range": 12
     "weapon":{
         "name": "titanium-sword",
         "length":15.0,
