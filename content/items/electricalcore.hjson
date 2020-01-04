@@ -1,4 +1,4 @@
-type: resource
+type: material
 name: Electrical Core
 description: A Base with electrical properties,often used to make small and light cores for giant robots such as Eradicators and Chaos arrays,also named Electrial Core
 explosiveness: 0.1
