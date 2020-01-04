@@ -1,5 +1,5 @@
-type: resource
+type: material
 name: Ultracore
-description: a core used to often power Reapers and other things,has no use yet
+description: a core used to often power Reapers and other things,has use now
 explosiveness: 0.3
 color: fbff9a
