@@ -24,7 +24,7 @@
 				"lifetime": 15,
 				"speed": 15,
 				"damage": 10000,
-				"bulletLength":80.0,
+				"bulletHeight":80.0,
                                 "bulletWidth":80.0
 		},
         "shootSound": "shootSnap"
