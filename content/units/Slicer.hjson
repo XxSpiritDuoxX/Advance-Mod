@@ -7,9 +7,10 @@
     "engineSize": 4,
     "engineOffset": 10,
     "hitsize": 7,
-    "health": 650,
+    "health": 600,
     "itemCapacity": 60,
-    "range": 2
+    "targetAir":true,
+    "range": 1
     "weapon":{
         "name": "titanium-sword",
         "length":15.0,
@@ -23,7 +24,7 @@
         "bullet": {
 				"type": "BasicBulletType",
 				"lifetime": 10,
-				"speed": 6,
+				"speed": 5,
 				"damage": 100,
 		},
         "shootSound": "shootSnap"
