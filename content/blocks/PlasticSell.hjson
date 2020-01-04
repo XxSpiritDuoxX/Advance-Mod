@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Plastic Seller
-description: Sells Plastic for 1 coin
+description: Sells Plastic for 1 coin,the reason this is after message is because you can label prices and communicate using message
 health: 300
 liquidCapacity: 30
 size: 1
@@ -22,7 +22,7 @@ requirements: [
   lead/20
 ]
 category: crafting
-research: silver-crucible
+research: message
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: coin/1
