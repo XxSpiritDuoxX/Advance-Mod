@@ -1,0 +1,32 @@
+{
+    "type": "groundUnit",
+    "name": "Armored Raider",
+    "description": "Raider with Titanium Armor,has higher DMG and HP",
+    "speed": 0.1,
+    "flying":false,
+    "engineSize": 4,
+    "engineOffset": 10,
+    "hitsize": 7,
+    "health": 750,
+    "itemCapacity": 40,
+    "targetAir":false,
+    "range": 1
+    "weapon":{
+        "name": "hands",
+        "length":15.0,
+        "width":15.0,
+        "reload":90,
+        "shots":1,
+        "velocityRnd": 0.1,
+        "inaccuracy": 0,
+        "alternate": true,
+        "ejectEffect": "shellEjectSmall",
+        "bullet": {
+				"type": "BasicBulletType",
+				"lifetime": 10,
+				"speed": 5,
+				"damage": 80,
+		},
+        "shootSound": "shootSnap"
+    }
+}
