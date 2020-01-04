@@ -9,7 +9,7 @@
     "hitsize": 40,
     "health": 5000000,
     "itemCapacity": 125000,
-    "range": 50
+    "range": 6
     "weapon":{
         "name": "titanium-sword",
         "length":80.0,
@@ -24,7 +24,7 @@
 				"type": "BasicBulletType",
 				"lifetime": 15,
 				"speed": 15,
-				"damage": 5000,
+				"damage": 10000,
 		},
         "shootSound": "shootSnap"
     }
