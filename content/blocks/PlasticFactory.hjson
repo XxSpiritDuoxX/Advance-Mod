@@ -18,12 +18,11 @@ consumes: {
   }
 }
 requirements: [
-  copper/30
-  lead/40
-  silicon/10
+  copper/45
+  lead/60
 ]
 category: crafting
-research: silver-crucible
+research: graphite-press
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: plastic/4
