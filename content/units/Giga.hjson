@@ -1,0 +1,32 @@
+{
+    "type": "groundUnit",
+    "name": "Giant",
+    "description": "Big and Tankier version of the slicer",
+    "speed": 0.05,
+    "flying":false,
+    "engineSize": 6,
+    "engineOffset": 10,
+    "hitsize": 15,
+    "health": 2000,
+    "itemCapacity": 40,
+    "targetAir":false,
+    "range": 2
+    "weapon":{
+        "name": "hands",
+        "length":15.0,
+        "width":15.0,
+        "reload":120,
+        "shots":1,
+        "velocityRnd": 0.1,
+        "inaccuracy": 0,
+        "alternate": true,
+        "ejectEffect": "shellEjectSmall",
+        "bullet": {
+				"type": "BasicBulletType",
+				"lifetime": 15,
+				"speed": 5,
+				"damage": 400,
+		},
+        "shootSound": "shootSnap"
+    }
+}
