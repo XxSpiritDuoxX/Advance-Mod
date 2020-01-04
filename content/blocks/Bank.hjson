@@ -21,7 +21,7 @@ requirements: [
   coin/200
 ]
 category: crafting
-research: silver-crucible
+research: PlasticSell
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: coin/2
