@@ -11,9 +11,8 @@
     "itemCapacity": 125000,
     "range": 6
     "weapon":{
-        "name": "titanium-sword",
-        "length":80.0,
-        "width":80.0,
+        "name": "empire-edge",
+        "Length":10.0,
         "reload":120,
         "shots":1,
         "velocityRnd": 0.1,
@@ -25,6 +24,8 @@
 				"lifetime": 15,
 				"speed": 15,
 				"damage": 10000,
+				"bulletLength":80.0,
+                                "bulletWidth":80.0
 		},
         "shootSound": "shootSnap"
     }
