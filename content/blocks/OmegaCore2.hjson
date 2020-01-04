@@ -6,11 +6,3 @@ hasItems: true
 health: 30000
 mech: glaive-ship
 size: 8
-requirements: [
-  thorium/20000
-  silicon/18000
-  titanium/25000
-  surge-alloy/20000
-]
-category: effect
-research: core-shard
