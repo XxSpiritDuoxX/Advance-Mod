@@ -7,7 +7,7 @@
     "engineSize": 4,
     "engineOffset": 10,
     "hitsize": 7,
-    "health": 600,
+    "health": 500,
     "itemCapacity": 60,
     "targetAir":false,
     "range": 1
@@ -15,7 +15,7 @@
         "name": "titanium-sword",
         "length":15.0,
         "width":15.0,
-        "reload":60,
+        "reload":90,
         "shots":1,
         "velocityRnd": 0.1,
         "inaccuracy": 0,
