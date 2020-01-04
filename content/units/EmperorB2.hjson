@@ -12,8 +12,7 @@
     "range": 15
     "weapon":{
         "name": "empiaricgun",
-        "length":40.0,
-        "width":25.0,
+        "length":20.0,
         "reload":20,
         "shots":1,
         "velocityRnd": 0.1,
@@ -25,6 +24,9 @@
 				"lifetime": 60,
 				"speed": 15,
 				"damage": 150,
+				"bulletHeight": 40
+				"bulletWidth": 25
+				
 		},
         "shootSound": "shootSnap"
     }
