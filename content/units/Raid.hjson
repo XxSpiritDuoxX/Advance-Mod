@@ -1,7 +1,7 @@
 {
     "type": "groundUnit",
     "name": "Raider",
-    "description": "Normal Raider,weaker than a Slicer,",
+    "description": "Normal Raider,weaker than a Slicer,common melee raie units,very weak",
     "speed": 0.1,
     "flying":false,
     "engineSize": 4,
