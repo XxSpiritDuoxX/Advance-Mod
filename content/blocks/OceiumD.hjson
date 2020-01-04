@@ -5,11 +5,11 @@ size: 2
 tier: 4
 drillTime: 100
 consumes: {
-  power: 1
+  power: 0.5
 }
 requirements: [
   oceium/25
   silicon/10
 ]
 category: production
-research: laser-drill
+research: blast-drill
