@@ -1,0 +1,32 @@
+{
+    "type": "groundUnit",
+    "name": "[red]OH NO",
+    "description": "[red]Oh no..........",
+    "speed": 0.05,
+    "flying":false,
+    "engineSize": 4,
+    "engineOffset": 10,
+    "hitsize": 7,
+    "health": 45000000,
+    "itemCapacity": 62839510,
+    "targetAir":false,
+    "range": 1
+    "weapon":{
+        "name": "truerage",
+        "length":15.0,
+        "width":15.0,
+        "reload":60,
+        "shots":1,
+        "velocityRnd": 0.1,
+        "inaccuracy": 0,
+        "alternate": true,
+        "ejectEffect": "shellEjectSmall",
+        "bullet": {
+				"type": "BasicBulletType",
+				"lifetime": 10,
+				"speed": 5,
+				"damage": 100000,
+		},
+        "shootSound": "shootSnap"
+	}
+}
