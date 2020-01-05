@@ -6,8 +6,8 @@
     "flying":false,
     "engineSize": 6,
     "engineOffset": 10,
-    "hitsize": 20,
-    "health": 12500,
+    "hitsize": 10,
+    "health": 15000,
     "itemCapacity": 40,
     "targetAir":false,
     "range": 2
