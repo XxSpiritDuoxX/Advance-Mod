@@ -2,7 +2,7 @@
     "type": "groundUnit",
     "name": "Besiege",
     "description": "Besieges are ruthless wall destroyers that deal alot of damage (10000 DPS) and have high armor,but are very slow",
-    "speed": 0.025,
+    "speed": 0.035,
     "flying":false,
     "engineSize": 4,
     "engineOffset": 10,
