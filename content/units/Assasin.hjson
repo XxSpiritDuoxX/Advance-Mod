@@ -2,7 +2,7 @@
     "type": "groundUnit",
     "name": "Assasin",
     "description": "Upgraded Ambusher",
-    "speed": 0.25,
+    "speed": 0.2,
     "flying":false,
     "engineSize": 4,
     "engineOffset": 10,
