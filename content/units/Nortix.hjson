@@ -1,0 +1,30 @@
+{
+    "type": "groundUnit",
+    "name": "Nortix",
+    "description": "Powerful and fast Ambusher like boss",
+    "speed": 0.15,
+    "flying":false,
+    "engineSize": 4,
+    "engineOffset": 10,
+    "hitsize": 7,
+    "health": 20000,
+    "itemCapacity": 40,
+    "targetAir":false,
+    "range": 1
+    "weapon":{
+        "name": "nortixsword",
+        "length":15.0,
+        "width":15.0,
+        "reload":30,
+        "shots":1,
+        "velocityRnd": 0.1,
+        "inaccuracy": 0,
+        "alternate": true,
+        "ejectEffect": "shellEjectSmall",
+        "bullet": {
+				"type": "BasicBulletType",
+				"lifetime": 10,
+				"speed": 5,
+				"damage": 800,
+		},
+}
