@@ -27,4 +27,6 @@
 				"speed": 5,
 				"damage": 30000,
 		},
-        "shootSound": "shootS
+        "shootSound": "shootSnap"
+	}
+}
