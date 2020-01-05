@@ -1,0 +1,30 @@
+{
+    "type": "groundUnit",
+    "name": "Besiege",
+    "description": "Besieges are ruthless wall destroyers that deal alot of damage (10000 DPS) and have high armor,but are very slow",
+    "speed": 0.025,
+    "flying":false,
+    "engineSize": 4,
+    "engineOffset": 10,
+    "hitsize": 7,
+    "health": 12500,
+    "itemCapacity": 40,
+    "targetAir":false,
+    "range": 1
+    "weapon":{
+        "name": "rage",
+        "length":15.0,
+        "width":15.0,
+        "reload":180,
+        "shots":1,
+        "velocityRnd": 0.1,
+        "inaccuracy": 0,
+        "alternate": true,
+        "ejectEffect": "shellEjectSmall",
+        "bullet": {
+				"type": "BasicBulletType",
+				"lifetime": 10,
+				"speed": 5,
+				"damage": 30000,
+		},
+        "shootSound": "shootS
