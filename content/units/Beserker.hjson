@@ -13,7 +13,7 @@
     "range": 1
     "weapon":{
         "name": "rage",
-        "length":15.0,
+        "length":5.0,
         "width":15.0,
         "reload":30,
         "shots":1,
