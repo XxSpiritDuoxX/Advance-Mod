@@ -2,8 +2,8 @@
 This is a new mod that still has some of the example mod stuff in it,in the future these will be gone and replaced,some stuff also have no textures,so be warned
 
 # Updates
-Jan X,2020 |
-Added 6 new raiders: Thorium Raider,Assasin,Beserker,Besiege,Knight,Nortix (Boss)
+Jan 9,2020 |
+Added 6 new raiders: Thorium Raider,Assasin,Beserker,Besiege,Knight,Nortix (Boss),update was rushed a bit,the next update will come soon,this is v5,the next update that was supposed to be v5 will be v6
 
 Jan 4,2020 |
 Added Raiders,mostly melee enemies[] Fixed some parts of the research []fixed slicer range []removed silicon from plastic factory requirements but made it cost 50% more[]added Omos (Melee Boss)[]fixed Core Omega sprite []Fixed electrical core not going into the core[]etc[]school is coming....,OH NO
