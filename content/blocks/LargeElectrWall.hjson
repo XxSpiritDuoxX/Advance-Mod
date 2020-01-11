@@ -1,8 +1,8 @@
 name: Large Electrical Wall
-description: A larger Electrical Wall that outputs stronger lightning,or well,that was what the inventor said
+description: A larger Electrical Wall that outputs stronger lightning,or well,that was what the inventor said (may cause lag)
 type: Wall
-health: 20000
-lightningChance: 1
+health: 10000
+lightningChance: 100
 lightningDamage: 12
 lightningLength: 12
 size: 2
