@@ -1,0 +1,9 @@
+name: Azorite Wall
+description: Strong wall made out of Azorite.
+type: Wall
+health: 5000
+size: 1
+requirements: [
+  azorite/15
+]
+category: defense
