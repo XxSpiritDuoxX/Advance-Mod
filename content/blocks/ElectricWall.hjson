@@ -2,7 +2,7 @@ name: Electrical Wall
 description: A Wall made to Electrify any attacker,though costly,will be worth the price,Anti-Melee,or well,that was what the inventor said....
 type: Wall
 health: 4000
-lightningChance: 1
+lightningChance: 100
 lightningDamage: 8
 lightningLength: 10
 size: 1
