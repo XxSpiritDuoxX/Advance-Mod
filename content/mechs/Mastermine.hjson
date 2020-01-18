@@ -1,20 +1,46 @@
-name: Mk3 Minerdrone
-description: A very efficient Miner drone,has incredible mining power,can also attack
-speed: 1.5
-flying: true
-boostSpeed: 1
-buildPower: 1.5
-mineSpeed: 10
-itemCapacity: 100
-drillPower: 6
-engineColor: "666495"
-flying: false
-health: 450
-weaponOffsetX: 4
-weapon: {
-  name: flamegun
-  length: 1.5
-  reload: 10
-  alternate: true
-  bullet: standardIncendiary
+{
+    "type": "mech",
+    "name": "Mk3 Minerdrone",
+    "description": "Mines incredibly fast,can store alot,also has offensive properties",
+    "speed": 0.6,
+    "maxVelocity": 2.8,
+    "flying":true,
+    "drag": 0.1,
+    "engineSize": 2.5,
+    "engineOffset": 5,
+    "hitsize": 6,
+    "mass": 1,
+    "health": 500,
+    "itemCapacity": 150,
+    "buildPower": 1,
+	"drillPower": 6,
+	"mineSpeed": 8,
+    "cellTrnsY": 0,
+    "engineColor": "99ffb7",
+    "weaponOffsetY": 5,
+    "baseRotateSpeed": 0.3,
+    "rotateSpeed": 0.2,
+    "weapon":{
+        "name": "gun",
+        "length":1.0,
+        "width":0.6,
+        "reload":30,
+		"recoil":7.2,
+        "shots":1,
+        "spacing": 1,
+        "velocityRnd": 0.1,
+        "inaccuracy": 0.4,
+        "alternate": true,
+        "ejectEffect": "none",
+        "bullet":{
+				"type": "BasicBulletType",
+				"lifetime": 45,
+				"speed": 4,
+				"damage": 30,
+				"frontColor": "ccffda",
+				"backColor": "99ffb7",
+				"keepVelocity":false,
+				"collidesTeam":true
+		}
+        "shootSound": "pew"
 }
