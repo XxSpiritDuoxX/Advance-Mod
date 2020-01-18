@@ -1,0 +1,9 @@
+name: Thorium Trophy
+description: Thorium Award for 10000000 Coins
+type: Wall
+health: 100000
+size: 1
+requirements: [
+  coin/10000000
+]
+category: defense
