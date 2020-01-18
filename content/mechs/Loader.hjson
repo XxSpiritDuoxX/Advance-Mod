@@ -44,5 +44,6 @@
 				"keepVelocity":false,
 				"collidesTeam":true
 		}
-        "shootSound": "shootSnap"
+        "shootSound": "shootSnap
+	}
 }
