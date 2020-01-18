@@ -43,4 +43,5 @@
 				"collidesTeam":true
 		}
         "shootSound": "pew"
+	}
 }
