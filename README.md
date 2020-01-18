@@ -2,6 +2,9 @@
 This is a new mod that still has some of the example mod stuff in it,in the future these will be gone and replaced,some stuff also have no textures,so be warned
 
 # Updates
+Jan 18,2020 (WIP)|
+Added Azorite and Azorite Wall
+
 Jan 9,2020 |
 Added 6 new raiders: Thorium Raider,Assasin,Beserker,Besiege,Knight,Nortix (Boss),update was rushed a bit,the next update will come soon,this is v5,the next update that was supposed to be v5 will be v6
 
