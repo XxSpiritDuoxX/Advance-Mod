@@ -1,7 +1,7 @@
 name: Large Azorite Wall
 description: Strong wall made out of Azorite.
 type: Wall
-health: 25000
+health: 30000
 size: 2
 requirements: [
   azorite/60
