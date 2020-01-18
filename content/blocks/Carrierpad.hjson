@@ -1,0 +1,16 @@
+name: Carrier Pad
+description: Transform into a Carrier
+type: MechPad
+mech: Loader
+size: 2
+consumes: {
+  power: 2
+}
+category: upgrade
+research: Minerpad
+requirements: [
+  silicon/130
+  titanium/150
+  thorium/200
+  oceium/80
+]
