@@ -1,0 +1,9 @@
+name: Bronze Trophy
+description: Bronze Award for 10000 Coins
+type: Wall
+health: 100
+size: 1
+requirements: [
+  coin/10000
+]
+category: defense
