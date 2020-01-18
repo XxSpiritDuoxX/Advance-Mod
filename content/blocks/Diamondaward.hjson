@@ -1,0 +1,9 @@
+name: Diamond Trophy
+description: Diamond Award for 100m Coins
+type: Wall
+health: 1000000
+size: 1
+requirements: [
+  coin/100000000
+]
+category: defense
