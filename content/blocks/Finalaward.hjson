@@ -1,0 +1,9 @@
+name: Final Trophy
+description: Final Award for 1b Coins
+type: Wall
+health: 10000000
+size: 1
+requirements: [
+  coin/1000000000
+]
+category: defense
