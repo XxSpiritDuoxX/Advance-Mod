@@ -1,0 +1,9 @@
+name: Silver Trophy
+description: Plastic Award for 100000 Coins
+type: Wall
+health: 1000
+size: 1
+requirements: [
+  coin/100000
+]
+category: defense
