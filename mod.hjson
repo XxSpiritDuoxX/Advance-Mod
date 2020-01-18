@@ -1,6 +1,9 @@
 name: "Advance Mod"
 displayName: "[blue]Advance[white] Mod" //what displays in the mod selection menu
 author: "[blue]Xx[white]SpiritDuo[blue]xX"
-description: "A new mod that tries to expand mindustry,This update was a bit rushed,v5 is now v6,someone sent me a screenshot of the mod,it was a broken,this update was made to fix it,Send me ideas for the mod in Discord Or My Email (xxspiritduoxx@gmail.com),School is getting to me,slowering the updates alot and stuff,the first thing i want to do is for you guys to be happy"
+description: "A new mod that tries to expand mindustry,this mod would have never existed if i cant look and study other people's code in their mod,i do not copy and paste their code,if you hate be for 'pirating' their code,try and find anything here thats ripped off from other mods exept the examplemod
+
+Credit to to: DemonX3 (Creator of Extended Building Modules,using his/her codes i can make the mechs)
+ThatOneBepis (Creator of Infinitodustry,using his/her unit code i can make units with different bullets)"
 version: "5"
 minGameVersion: "102.3"
