@@ -2,7 +2,7 @@
 This is a new mod that still has some of the example mod stuff in it,in the future these will be gone and replaced,some stuff also have no textures,so be warned
 
 # Updates
-Jan 18,2020 (WIP)|
+Jan 18,2020 |
 Added Azorite and Azorite Wall [] Readded Mk3 Minerdrone Pad [] Added Loader Ship Pad [] Added Awards [] Nerfed Electric wall
 
 Jan 9,2020 |
