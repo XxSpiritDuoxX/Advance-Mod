@@ -3,7 +3,7 @@ This is a new mod that still has some of the example mod stuff in it,in the futu
 
 # Updates
 Jan 18,2020 (WIP)|
-Added Azorite and Azorite Wall [] Readded Mk3 Minerdrone Pad [] Added Loader Ship Pad [] Added Awards
+Added Azorite and Azorite Wall [] Readded Mk3 Minerdrone Pad [] Added Loader Ship Pad [] Added Awards [] Nerfed Electric wall
 
 Jan 9,2020 |
 Added 6 new raiders: Thorium Raider,Assasin,Beserker,Besiege,Knight,Nortix (Boss),update was rushed a bit,the next update will come soon,this is v5,the next update that was supposed to be v5 will be v6
