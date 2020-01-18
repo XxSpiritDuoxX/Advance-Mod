@@ -7,3 +7,5 @@ requirements: [
   coin/1000000000
 ]
 category: defense
+research: core-shard
+alwaysUnlocked: true
