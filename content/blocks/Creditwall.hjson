@@ -1,9 +1,10 @@
 name: Credit Wall
 description: Credit to these Modders for their code: DemonX3 (ExtendedRebuildingModules Creator),ThatOneBepis (Infinitodustry Creator), MemFaceGo (Better Blocks Mod Creator).
 type: Wall
-health: 125000000000
+health: 500000
 size: 1
 requirements: [
-  coin/10000000000
+  coin/10000
+  electricalcore/10000
 ]
 category: defense
