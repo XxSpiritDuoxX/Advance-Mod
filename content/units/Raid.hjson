@@ -7,7 +7,7 @@
     "engineSize": 4,
     "engineOffset": 10,
     "hitsize": 7,
-    "health": 350,
+    "health": 250,
     "itemCapacity": 40,
     "targetAir":false,
     "range": 1
@@ -25,7 +25,7 @@
 				"type": "BasicBulletType",
 				"lifetime": 10,
 				"speed": 5,
-				"damage": 40,
+				"damage": 25,
 		},
         "shootSound": "shootSnap"
     }
