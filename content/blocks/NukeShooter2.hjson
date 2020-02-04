@@ -1,0 +1,51 @@
+type: itemTurret
+name: Nuke Launcher Mk2
+description: Powerful Turret Made to Destroy,Made inside Motherships and can only be bought
+health: 6000
+size: 4
+reload: 480
+range: 800
+ammoUseEffect: shellEjectSmall
+inaccuracy: 0
+rotatespeed: 12
+maxAmmo: 6
+ammo: {
+  nuketier1: {
+    speed: 12
+    damage: 1000
+    splashDamage: 3000
+    splashDamageRadius: 180
+    bulletWidth: 14
+    bulletHeight: 18
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+  nuketier2: {
+    speed: 12
+    damage: 3000
+    splashDamage: 8000
+    splashDamageRadius: 210
+    bulletWidth: 14
+    bulletHeight: 18
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+  nuketier3: {
+    speed: 12
+    damage: 4500
+    splashDamage : 15000
+    splashDamageRadius: 270
+    bulletWidth: 14
+    bulletHeight: 18
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+}
+requirements: [
+  coin/70000
+]
+category: turret
+research: NukeShooter
