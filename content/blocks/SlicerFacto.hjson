@@ -1,20 +1,20 @@
-name: Slicer Factory
+name: Copper Raider Factory
 description: Makes basic melee units often used for raiding bases,has high HP and DMG but have low range
 type: UnitFactory
-unitType: Slicer
+unitType: Raid
 size: 2
 produceTime: 840
 consumes: {
   power: 0.5
   items: {
     items: [
-      silicon/15
+      copper/20
     ]
   }
 }
 category: units
-research: titan-factory
+research: draug-factory
 requirements: [
-  silicon/80
-  lead/100
+  copper/200
+  lead/150
 ]
