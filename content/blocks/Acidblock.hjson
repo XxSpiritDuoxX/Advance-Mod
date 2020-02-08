@@ -5,3 +5,4 @@ speedMultiplier: 0.8
 status: burning
 statusDuration: 120
 playerUnmineable: true
+variants: 0
