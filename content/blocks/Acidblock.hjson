@@ -4,5 +4,4 @@ damageTaken: 20
 speedMultiplier: 0.8
 status: burning
 statusDuration: 120
-variants: 1
 playerUnmineable: true
