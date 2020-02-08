@@ -1,5 +1,5 @@
 name: Titanium Bridge Conveyor
-description: Bridge conveyor made out of titanium
+description: Bridge conveyor made out of Titanium
 type: itemBridge
 health: 150
 size: 1
@@ -11,5 +11,5 @@ requirements: [
   titanium/25
   graphite/15
 ]
-category: defense
+category: distibution
 research: bridge-conveyor
