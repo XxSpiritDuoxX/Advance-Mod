@@ -1,0 +1,10 @@
+name: Large Gold Wall
+description: Big Wall made out of Gold
+type: Wall
+health: 3000
+size: 2
+requirements: [
+  coin/100
+]
+category: defense
+research: GoldWall
