@@ -1,0 +1,10 @@
+name: Reinforced Gold Wall
+description: Strong Wall made out of Gold
+type: Wall
+health: 1800
+size: 1
+requirements: [
+  coin/50
+]
+category: defense
+research: GoldWall
