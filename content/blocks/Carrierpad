@@ -3,7 +3,7 @@ description: Transform into a Carrier
 type: MechPad
 mech: Loader
 size: 2
-consumes: {
+consumes: 
   power: 2
 }
 category: upgrade
