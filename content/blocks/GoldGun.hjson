@@ -1,7 +1,7 @@
 type: DoubleTurret
 name: Golden Plastic Turret
-description: this is very powerful,you can only buy this
-health: 1500
+description: this is kinda powerful,you can only buy this
+health: 1000
 size: 1
 reload: 5
 range: 180
@@ -20,7 +20,7 @@ ammo: {
   }
 }
 requirements: [
-  coin/400
+  coin/250
 ]
 category: turret
 research: PlasticTurret
