@@ -7,5 +7,4 @@ damageTaken: 5
 speedMultiplier: 0.6
 status: melting
 statusDuration: 180
-variants: 0
 playerUnmineable: true
