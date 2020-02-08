@@ -27,7 +27,7 @@ requirements: [
   silicon/50
 ]
 category: crafting
-research: silver-crucible
+research: silicon-smelter
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: oceium/2
