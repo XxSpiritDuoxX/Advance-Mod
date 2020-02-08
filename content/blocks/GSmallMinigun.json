@@ -1,0 +1,27 @@
+type: DoubleTurret
+name: Coingun
+description: Rapid firing turret that uses coins as ammo,can be very expensive to keep,but is Strong
+health: 2000
+size: 1
+reload: 4
+range: 128
+maxAmmo: 100
+ammoUseEffect: shellEjectSmall
+inaccuracy: 15
+rotatespeed: 12
+ammo: {
+  copper: {
+    speed: 8
+    damage: 25
+    bulletWidth: 4
+    bulletHeight: 7
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+}
+requirements: [
+  coin/500
+]
+category: turret
+research: SmallMinigun
