@@ -1,0 +1,15 @@
+name: Titanium Bridge Conveyor
+description: Bridge conveyor made out of titanium
+type: itemBridge
+health: 150
+size: 1
+range: 5
+hasPower: false
+itemCapacity: 25
+transportSpeed: 3.5
+requirements: [
+  titanium/25
+  graphite/15
+]
+category: defense
+research: bridge-conveyor
