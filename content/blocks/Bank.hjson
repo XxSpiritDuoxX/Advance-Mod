@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Bank
-description: Gives you 2 coins every second
+description: Gives you 1 coin every second
 health: 500
 liquidCapacity: 30
 size: 1
@@ -18,10 +18,10 @@ consumes: {
   }
 }
 requirements: [
-  coin/200
+  coin/150
 ]
 category: crafting
 research: PlasticSell
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: coin/2
+outputItem: coin/1
