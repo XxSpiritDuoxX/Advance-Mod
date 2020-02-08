@@ -1,0 +1,10 @@
+name: Gold Wall
+description: Wall made out of Gold
+type: Wall
+health: 600
+size: 1
+requirements: [
+  coin/25
+]
+category: defense
+research: PlasticSell
