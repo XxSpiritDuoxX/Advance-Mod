@@ -4,6 +4,6 @@ type: Wall
 health: 30000
 size: 2
 requirements: [
-  azorite/60
+  azoritebar/60
 ]
 category: defense
