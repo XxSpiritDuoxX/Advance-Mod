@@ -8,3 +8,4 @@ speedMultiplier: 0.6
 status: melting
 statusDuration: 180
 playerUnmineable: true
+variants: 0
