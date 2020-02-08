@@ -2,7 +2,7 @@
 This is a new mod that still has some of the example mod stuff in it,in the future these will be gone and replaced,some stuff also have no textures,so be warned
 
 # Updates
-Feb 7,2020 | Temporarily removed mech pads and ships [] Nerfed Basic Raider + Renamed to Soldier [] Slicer factory renamed to Soldier Factory + Makes Copper Raiders now [] Added 2 new turrets: Small Minigun + Coin minigun [] Nerfed Banks but their cot is reduced by 50 (now is 150 Coins) [] Golden Plastic Turret now costs 250 Coins []
+Feb 7,2020 | Temporarily removed mech pads and ships [] Nerfed Basic Raider + Renamed to Soldier [] Slicer factory renamed to Soldier Factory + Makes Copper Raiders now [] Added 2 new turrets: Small Minigun + Coin minigun [] Nerfed Banks but their cot is reduced by 50 (now is 150 Coins) [] Golden Plastic Turret now costs 250 Coins [] added floors
 
 Jan 18,2020 |
 Added Azorite and Azorite Wall [] Readded Mk3 Minerdrone Pad [] Added Loader Ship Pad [] Added Awards [] Nerfed Electric wall
@@ -14,7 +14,7 @@ Jan 4,2020 |
 Added Raiders,mostly melee enemies[] Fixed some parts of the research []fixed slicer range []removed silicon from plastic factory requirements but made it cost 50% more[]added Omos (Melee Boss)[]fixed Core Omega sprite []Fixed electrical core not going into the core[]etc[]school is coming....,OH NO
 
 Jan 3,2020 |
-Added Lich + Commander factory (Commander factory is only for sandbos)[] Buffed Scythe Speed [] increased Commander HP by 25,000 [] Buffed Electric Walls HP by 6x [] Fixed Slicer [] Added Emperor A (Megaboss) [] Added Emperor B (Megaboss) [] Added Core - Omega,a 8x8 Core [] Added an ideas thing in the issues (not meant for that but,give me ideas)
+Added Lich + Commander factory (Commander factory is only for sandbox)[] Buffed Scythe Speed [] increased Commander HP by 25,000 [] Buffed Electric Walls HP by 6x [] Fixed Slicer [] Added Emperor A (Megaboss) [] Added Emperor B (Megaboss) [] Added Core - Omega,a 8x8 Core [] Added an ideas thing in the issues (not meant for that but,give me ideas)
 
 Jan 2,2020 |
 Added Walls,Powernodes,etc[]
