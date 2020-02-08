@@ -1,0 +1,12 @@
+name: Spreader
+description: Larger Distributor
+type: Wall
+health: 600
+size: 3
+requirements: [
+  copper/10
+  lead/12
+  graphite/5
+]
+category: distribution
+research: distributor
