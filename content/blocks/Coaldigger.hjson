@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: Coaldigger
+description: Digs up 1 Coal every second,Useful in situations where coal is scarce
+health: 100
+liquidCapacity: 30
+size: 1
+hasPower: false
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  items: {
+    items: [
+      coin/0
+    ]
+  }
+}
+requirements: [
+  coin/60
+]
+category: crafting
+research: PlasticSell
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: coal/1
