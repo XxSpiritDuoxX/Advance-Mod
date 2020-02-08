@@ -1,0 +1,15 @@
+name: Large Bridge Conveyor
+description: Larger Bridge Conveyor 
+type: itemBridge
+health: 200
+size: 2
+range: 7
+hasPower: false
+itemCapacity: 40
+transportSpeed: 3
+requirements: [
+  copper/35
+  lead/40
+]
+category: distribution
+research: bridge-conveyor
