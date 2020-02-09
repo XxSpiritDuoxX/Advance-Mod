@@ -1,10 +1,10 @@
-type: DoubleTurret
+type: itemTurret
 name: Small Minigun
 description: Rapid firing turret that is both cost and space efficient,Useful for early game and mid game
 health: 400
 size: 1
 reload: 2
-range: 128
+range: 96
 maxAmmo: 80
 ammoUseEffect: shellEjectSmall
 inaccuracy: 15
@@ -12,39 +12,39 @@ rotatespeed: 12
 ammo: {
   plastic: {
     speed: 12
-    damage: 4
-    bulletWidth: 4
-    bulletHeight: 7
+    damage: 5
+    bulletWidth: 5
+    bulletHeight: 8
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 5
+    ammoMultiplier: 4
   }
   copper: {
     speed: 8
-    damage: 7
-    bulletWidth: 4
-    bulletHeight: 7
+    damage: 8
+    bulletWidth: 5
+    bulletHeight: 8
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 5
+    ammoMultiplier: 4
   }
   titanium: {
     speed: 8
-    damage: 12
-    bulletWidth: 4
-    bulletHeight: 7
+    damage: 13
+    bulletWidth: 5
+    bulletHeight: 8
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 5
+    ammoMultiplier: 4
   }
   graphite: {
-    speed: 5
-    damage: 17
-    bulletWidth: 4
-    bulletHeight: 7
+    speed: 4
+    damage: 20
+    bulletWidth: 6
+    bulletHeight: 9
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 5
+    ammoMultiplier: 4
   }
 }
 requirements: [
