@@ -3,7 +3,7 @@ name: Coingun
 description: Rapid firing turret that uses coins as ammo,can be very expensive to keep,but is Strong
 health: 2000
 size: 1
-reload: 4
+reload: 2
 range: 128
 maxAmmo: 100
 ammoUseEffect: shellEjectSmall
