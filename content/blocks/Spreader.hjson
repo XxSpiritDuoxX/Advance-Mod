@@ -1,6 +1,7 @@
 name: Spreader
 description: Larger Distributor
-type: Wall
+type: Router
+itemCapacity: 3
 health: 600
 size: 3
 requirements: [
