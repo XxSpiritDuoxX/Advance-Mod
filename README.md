@@ -2,6 +2,8 @@
 This is a new mod that still has some of the example mod stuff in it,in the future these will be gone and replaced,some stuff also have no textures,so be warned
 
 # Updates
+Feb 12,2020 | Made Available for 104.1 Version Mindustry
+
 Feb 8,2020 | Temporarily removed mech pads and ships [] Nerfed Basic Raider + Renamed to Soldier [] Slicer factory renamed to Soldier Factory + Makes Copper Raiders now [] Added 2 new turrets: Small Minigun + Coin minigun [] Nerfed Banks but their cost is reduced by 50 (now is 150 Coins) [] Golden Plastic Turret now costs 250 Coins [] added floors [] added Spreader (3x3 Distributor) [] Added Large Bridge Conveyor (2x2 Bridge Conveyor) and Titanium Bridge Conveyor
 
 Jan 18,2020 |
