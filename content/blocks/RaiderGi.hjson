@@ -16,6 +16,6 @@ consumes: {
 category: units
 research: Raider2
 requirements: [
-  titanium/250
+  titanium/400
   graphite/150
 ]
