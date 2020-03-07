@@ -1,8 +1,7 @@
 # Info
 a simple mod made to expand mindustry
 
-Discord Username: XxSpiritDuoxX #8320
-Discord Server: https://discord.gg/tq96EuF
+Discord Username: XxSpiritDuoxX #8320 || Discord Server: https://discord.gg/tq96EuF
 
 # Updates
 Mar 7,2020 | Added 3 New Turrets: Basic Minigun,Darter,and Dragonburst [] Added more Raider Factories [] added sprites for Azorite ore [] Reworked Copper Raider Factory Sprite [] added Minicore,a tiny core
