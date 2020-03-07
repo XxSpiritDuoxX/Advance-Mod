@@ -1,5 +1,5 @@
-name: Titanium Raider Factory
-description: Makes stronger melee units often used for raiding bases,has high HP and DMG but have low range
+name: Thorium Raider Factory
+description: Makes strong melee units often used for raiding bases,has high HP and DMG but have low range
 type: UnitFactory
 unitType: ThorRaid
 size: 2
