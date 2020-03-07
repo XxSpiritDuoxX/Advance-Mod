@@ -1,7 +1,12 @@
-# NOTE!
-This is a new mod that still has some of the example mod stuff in it,in the future these will be gone and replaced,some stuff also have no textures,so be warned
+# Info
+a simple mod made to expand mindustry
+
+Discord Username: XxSpiritDuoxX #8320
+Discord Server: https://discord.gg/tq96EuF
 
 # Updates
+Mar 7,2020 | Added 3 New Turrets: Basic Minigun,Darter,and Dragonburst [] Added more Raider Factories [] added sprites for Azorite ore [] Reworked Copper Raider Factory Sprite [] added Minicore,a tiny core
+
 Feb 12,2020 | Made Available for 104.1 Version Mindustry
 
 Feb 8,2020 | Temporarily removed mech pads and ships [] Nerfed Basic Raider + Renamed to Soldier [] Slicer factory renamed to Soldier Factory + Makes Copper Raiders now [] Added 2 new turrets: Small Minigun + Coin minigun [] Nerfed Banks but their cost is reduced by 50 (now is 150 Coins) [] Golden Plastic Turret now costs 250 Coins [] added floors [] added Spreader (3x3 Distributor) [] Added Large Bridge Conveyor (2x2 Bridge Conveyor) and Titanium Bridge Conveyor
