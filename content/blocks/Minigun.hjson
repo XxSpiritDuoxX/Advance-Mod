@@ -1,0 +1,74 @@
+type: itemTurret
+name: Minigun
+description: Stronger version of the small minigun,Useful for early game to end game
+health: 1200
+size: 2
+reload: 2
+range: 128
+maxAmmo: 120
+ammoUseEffect: shellEjectSmall
+inaccuracy: 13
+rotatespeed: 14
+ammo: {
+  plastic: {
+    speed: 12
+    damage: 10
+    bulletWidth: 5
+    bulletHeight: 8
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 4
+  }
+  copper: {
+    speed: 8
+    damage: 15
+    bulletWidth: 5
+    bulletHeight: 8
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 4
+  }
+  titanium: {
+    speed: 8
+    damage: 25
+    bulletWidth: 5
+    bulletHeight: 8
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 4
+  }
+  thorium: {
+    speed: 8
+    damage: 50
+    bulletWidth: 5
+    bulletHeight: 8
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 4
+  }
+    oceium: {
+    speed: 8
+    damage: 90
+    bulletWidth: 5
+    bulletHeight: 8
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 4
+  }
+  graphite: {
+    speed: 4
+    damage: 35
+    bulletWidth: 6
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 3
+  }
+}
+requirements: [
+  titanium/75
+  graphite/45
+  silicon/25
+]
+category: turret
+research: SmallMinigun
