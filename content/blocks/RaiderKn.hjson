@@ -1,0 +1,21 @@
+name: Knight Factory
+description: Makes strong melee tank units often used for raiding bases,has high HP and DMG
+type: UnitFactory
+unitType: Knight
+size: 2
+produceTime: 1800
+maxSpawn: 4
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      thorium/50
+    ]
+  }
+}
+category: units
+research: RaiderGi
+requirements: [
+  thorium/500
+  titanium/400
+]
