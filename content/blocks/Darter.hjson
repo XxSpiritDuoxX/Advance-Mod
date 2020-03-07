@@ -1,0 +1,55 @@
+type: itemTurret
+name: Darter
+description: Shoots targets from afar,useful against out of reach enemies
+health: 400
+size: 3
+reload: 120
+range: 280
+ammoUseEffect: shellEjectSmall
+inaccuracy: 0
+rotatespeed: 12
+maxAmmo: 30
+ammo: {
+  copper: {
+    speed: 18
+    damage: 75
+    bulletWidth: 10
+    bulletHeight: 20
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+  lead: {
+    speed: 18
+    damage: 75
+    bulletWidth: 10
+    bulletHeight: 20
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+  titanium: {
+    speed: 18
+    damage: 120
+    bulletWidth: 10
+    bulletHeight: 20
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+  graphite: {
+    speed: 12
+    damage: 140
+    bulletWidth: 10
+    bulletHeight: 20
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+}
+requirements: [
+  lead/65
+  graphite/30
+]
+category: turret
+research: duo
