@@ -14,7 +14,7 @@ consumes: {
   }
 }
 category: units
-research: draug-factory
+research: dagger-factory
 requirements: [
   copper/200
   lead/150
