@@ -1,0 +1,21 @@
+name: Titanium Raider Factory
+description: Makes stronger melee units often used for raiding bases,has high HP and DMG but have low range
+type: UnitFactory
+unitType: ArRaid
+size: 2
+produceTime: 840
+maxSpawn: 5
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      titanium/20
+    ]
+  }
+}
+category: units
+research: Raider1
+requirements: [
+  titanium/150
+  lead/125
+]
