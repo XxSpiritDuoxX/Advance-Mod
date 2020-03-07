@@ -1,0 +1,8 @@
+name: Core Mini
+description: a 1x1 core made for scouts designed to check the surrounding area for ussualy 1 hour,the reason for its small size is because its small size makes it very hard to enemy radars to detect it,and even if its detected and destroyed,the costs to us is minor,NOT MADE FOR ZONE SURVIVAL
+type: CoreBlock
+itemCapacity: 1000
+hasItems: true
+health: 600
+mech: dart-ship
+size: 1
