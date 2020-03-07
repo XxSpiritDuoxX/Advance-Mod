@@ -4,6 +4,7 @@ type: UnitFactory
 unitType: Raid
 size: 2
 produceTime: 840
+maxSpawn: 5
 consumes: {
   power: 0.5
   items: {
