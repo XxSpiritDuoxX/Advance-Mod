@@ -17,5 +17,5 @@ category: units
 research: Raider1
 requirements: [
   titanium/150
-  lead/125
+  graphite/125
 ]
