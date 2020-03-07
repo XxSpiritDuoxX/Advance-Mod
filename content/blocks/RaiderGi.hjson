@@ -1,0 +1,21 @@
+name: Giant Factory
+description: Makes strong melee tank units often used for raiding bases,has high HP and DMG but are slow (Fun fact: the original name of the Giant was Giga)
+type: UnitFactory
+unitType: Giga
+size: 2
+produceTime: 1500
+maxSpawn: 4
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      titanium/50
+    ]
+  }
+}
+category: units
+research: Raider2
+requirements: [
+  titanium/250
+  graphite/150
+]
