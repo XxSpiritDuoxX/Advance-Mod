@@ -2,7 +2,7 @@ type: itemTurret
 name: Darter
 description: Shoots targets from afar,useful against out of reach enemies
 health: 400
-size: 3
+size: 1
 reload: 120
 range: 280
 ammoUseEffect: shellEjectSmall
