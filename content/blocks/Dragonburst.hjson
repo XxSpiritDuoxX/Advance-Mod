@@ -1,0 +1,58 @@
+type: BurstTurret
+name: Dragonburst
+description: Incredible burst turret that shoots 30 bullets per burst,Very Good Antiboss
+health: 1500
+size: 2
+reload: 120
+range: 96
+maxAmmo: 120
+burstSpacing: 1
+shots: 30
+ammoUseEffect: shellEjectSmall
+inaccuracy: 15
+rotatespeed: 12
+ammo: {
+  copper: {
+    speed: 6
+    damage: 15
+    bulletWidth: 7
+    bulletHeight: 10
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 5
+  }
+  titanium: {
+    speed: 6
+    damage: 25
+    bulletWidth: 7
+    bulletHeight: 10
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 5
+  }
+  thorium: {
+    speed: 6
+    damage: 40
+    bulletWidth: 7
+    bulletHeight: 10
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 5
+  }
+  graphite: {
+    speed: 3
+    damage: 30
+    bulletWidth: 6
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 4
+  }
+}
+requirements: [
+  titanium/100
+  thorium/125
+  silicon/35
+]
+category: turret
+research: salvo
