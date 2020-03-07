@@ -1,0 +1,22 @@
+name: Assassin Factory
+description: Makes fast melee units often used for raiding bases,has high HP,DMG,and speed (Fun Fact,i mispelt Assassin for the unit,so the codename is Assasin)
+type: UnitFactory
+unitType: Assasin
+size: 2
+produceTime: 960
+maxSpawn: 4
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      titanium/20
+      silicon/10
+    ]
+  }
+}
+category: units
+research: Raider1
+requirements: [
+  titanium/150
+  lead/125
+]
